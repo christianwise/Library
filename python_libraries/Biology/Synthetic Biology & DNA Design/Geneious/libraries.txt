@@ -1,0 +1,2 @@
+sangerseq-viewer
+msplotter

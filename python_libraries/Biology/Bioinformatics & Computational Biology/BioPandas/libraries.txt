@@ -1,0 +1,8 @@
+sadic
+biopandas
+protkit
+colav
+provis
+Structuralia
+ProteinStructureVisualizer
+python-pdb

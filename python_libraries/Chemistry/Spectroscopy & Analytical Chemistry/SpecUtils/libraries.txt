@@ -1,0 +1,9 @@
+specutils
+gildas-uvfit
+redmost
+spectrum-overload
+SandiaSpecUtils
+SPEARS
+gollum
+krome
+measure-spec

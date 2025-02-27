@@ -1,0 +1,10 @@
+relaxometrynmr
+nmrlineshapeanalyser
+eNMRpy
+peakipy
+spec2nii
+NMR-peaks-picking
+nmrglue
+klassez
+drawnmr
+mrsprint

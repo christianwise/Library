@@ -1,0 +1,13 @@
+aleimi
+pymopac
+seamm-util
+preview-generator-ivc
+mopac
+read-structure-step
+seamm-widgets
+psi4-step
+seamm
+mopac-step
+mopactools
+atomdriver-qc
+nomad-parser-plugins-electronic

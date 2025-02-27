@@ -1,0 +1,6 @@
+pyChemEng
+chemcalculator
+chempy
+PySDM
+chemsolve
+chemistry-tools

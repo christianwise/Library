@@ -1,0 +1,15 @@
+geowrangler
+cropclassification
+pylusat
+PyHeatDemand
+craterpy
+xarray-spatial
+trefoil
+hazelbean
+gis-utils
+pandarus
+pandarus-remote
+itmlogic
+rasterstats
+nlmod
+ras-commander

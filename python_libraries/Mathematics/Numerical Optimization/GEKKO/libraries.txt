@@ -1,0 +1,9 @@
+gekko
+chickadee-opt
+seeq-sysid
+drone-awe
+awesome-systematic-trading
+auto-gptq
+ionlab
+cdst
+theGekko

@@ -1,0 +1,13 @@
+synthemol
+espsim
+ivers
+qsprpred
+admet-ai
+MolScore
+funcnodes-chemprop
+chemexp
+astartes
+admetica
+fastprop
+molmap
+chemprop

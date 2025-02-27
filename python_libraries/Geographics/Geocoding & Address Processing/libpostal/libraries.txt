@@ -1,0 +1,14 @@
+libpypostal
+django-cities-legacy
+ftm-geocode
+osmgeocoder
+dripostal
+pypostalwin
+wodoo
+lieu
+pylibpostal
+addr-detector
+scrubadub-address
+payment-text-parser
+postal
+django-cities

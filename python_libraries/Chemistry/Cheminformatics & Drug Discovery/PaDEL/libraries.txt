@@ -1,0 +1,15 @@
+courtvision
+wearesports
+ChemDescriptors
+aimsim-core
+PaDEL-pywrapper
+aimsim
+padelpy
+molfeat-padel
+ecnet
+MLChemTools
+CompDesc
+nfkbin
+chemfeat
+Chemical-Descriptors
+CDK-pywrapper

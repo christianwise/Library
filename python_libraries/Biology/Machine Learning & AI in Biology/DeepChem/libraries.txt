@@ -1,0 +1,13 @@
+muben
+altmol
+deepchem
+salam
+visar
+dgbg
+nglview
+deepchem-nightly
+openpom
+deepmol
+molplotly
+molnet-python
+molalkit

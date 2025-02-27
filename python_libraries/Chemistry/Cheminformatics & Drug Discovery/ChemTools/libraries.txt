@@ -1,0 +1,5 @@
+chemtools-py
+qc-iodata
+roberto
+chemtools
+cheminftools

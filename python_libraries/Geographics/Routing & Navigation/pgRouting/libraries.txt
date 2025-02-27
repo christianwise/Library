@@ -1,0 +1,7 @@
+django-geostore-routing
+wayfarer
+pgrsql2data
+django-terra-geocrud
+django-geostore
+r2gg
+psycopgr
