@@ -1,4 +1,3 @@
-dexom-python
 mewpy
 rust_sbml
 mergem
@@ -20,7 +19,6 @@ gsmodutils
 cobrapy_shim
 sammi
 miom
-padmet
 autopacmen-Paulocracy
 mcPAMpy
 geckopy
@@ -58,7 +56,6 @@ cobramod
 pycomo
 scarcc
 fastsl
-metworkpy
 biosimulators-cobrapy
 sambaflux
 csmemo

@@ -1,8 +1,2 @@
-sentinel-downloader
-s2cloudless
-sentinelhub
-eo-learn
-satellite-extractor
-linder
 pg-to-evalscript
 sentinelpy

@@ -1,4 +1,2 @@
 brainiak-cloud
-fmralign
 brainiak
-fastsrm

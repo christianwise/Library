@@ -1,15 +1,11 @@
 realtpl
 HydDown
-idaes-pse
 CoolProp
 ccp-performance
-encomp
-fluidprop
 vclibpy
 pygfunction
 orcpy
 simvcce
-cusfbamboo
 mcycle
 ghedt
 turboflow
@@ -27,7 +23,5 @@ thermostate
 CoolPlot
 kilojoule
 carbatpy
-rgfrosh
-teqp
 pyfluids
 digripy

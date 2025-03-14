@@ -4189,7 +4189,6 @@ hydropattern
 pymediafire
 config-cobra
 pyvacy
-PMPrimer
 usfutils
 JobTipsRamdom
 libsff
@@ -6475,7 +6474,6 @@ basiccalculatorSh
 utinni-fork
 textode
 elementpath
-dnastorage
 binaryrpc
 crimereports
 valparse
@@ -6715,7 +6713,6 @@ calculatorr
 wmc
 flask-casbin-redis-watcher
 estela-requests
-Mapp
 xatch
 pip-services4-expressions
 qtworker
@@ -7409,7 +7406,6 @@ JustTry
 ElegantPy
 HumanActivityRecognition
 mycalculator112
-just-agents-coding
 listshiftoperationpkg
 lubepy
 betahaus.portlet.maillist
@@ -8274,7 +8270,6 @@ jprinter
 tcpp
 mini-memgraph
 shreycalc
-cmdrnafold
 running-mate
 epparsers
 tntorch

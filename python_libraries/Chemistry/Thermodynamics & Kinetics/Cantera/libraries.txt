@@ -3,7 +3,6 @@ pyrometheus
 ms-thermo
 PyTeCK
 sphinxcontrib-matlabdomain
-GasNetSim
 eptlsoot2
 cantera
 ctwrap
@@ -11,11 +10,9 @@ cusfbamboo
 aPrioriDNS
 cantera-adaptive-testing
 reacnet
-reactorch
 eptlsoot
 UConnRCMPy
 pyked
-slgps
 carspy
 mixmaster
 SplitFDM

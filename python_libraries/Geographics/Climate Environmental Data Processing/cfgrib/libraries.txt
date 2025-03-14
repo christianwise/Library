@@ -1,7 +1,5 @@
 appmar2
 SPyTools
-neural-transport
-eccodes-python
 iconarray
 herbie-data
 nmc-met-io
@@ -20,5 +18,3 @@ eccodes
 cfgrib
 google-weather-tools
 bmi-wavewatch3
-mfire
-appmar

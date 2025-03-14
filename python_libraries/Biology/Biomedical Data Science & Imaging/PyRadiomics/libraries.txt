@@ -5,12 +5,8 @@ radtract
 pyradiomics-bhklab
 pytorchradiomics
 MMA-MISP
-precision-medicine-toolbox
-PREDICT
 frd-score
 radmxtk
 CAE-Jake-HP-145
-raymics
 pyradiomics
-delia
 WORC

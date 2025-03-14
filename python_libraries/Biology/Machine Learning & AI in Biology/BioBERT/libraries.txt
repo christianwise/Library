@@ -1,5 +1,4 @@
 taxonerd
-ktrain
 nlu-spark23
 Aj-Zsl-nlu
 biobert-bern

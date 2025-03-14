@@ -1,5 +1,4 @@
 pyChemEng
-chemcalculator
 chempy
 PySDM
 chemsolve

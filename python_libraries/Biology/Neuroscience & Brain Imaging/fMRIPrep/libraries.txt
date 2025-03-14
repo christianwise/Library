@@ -2,10 +2,8 @@ fids
 fmriprep-group-report
 NeuroConn
 fmridenoise
-bidsmreye
 cohort-creator
 fmriprep
-deepmreye
 mocet
 fmriprep-docker
 kslurm
@@ -13,15 +11,10 @@ fw-gear-audit
 bbrc-bx
 rsbids
 nibabies
-PyMVPD
 neurocaps
 nisnap
 discovery-imaging-utils
-easylearn
-PyMVPD-LITE
-xcpengine-container
 smriprep
-eslearn
 fitlins
 keprep
 glm-express
@@ -31,4 +24,3 @@ panpipelines
 rabies
 QSIPrep
 denoise-fmri
-load-confounds

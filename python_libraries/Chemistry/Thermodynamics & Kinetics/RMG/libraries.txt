@@ -1,11 +1,8 @@
-PyDSlog
 rmgdatabase
 pyrms
 numerical-integration-rmg
-pangtreebuild
 redis-mass-get
 reactionmechanismgenerator
 rmg-numerical-integration
 proharmed
 cosimpy
-sklaran

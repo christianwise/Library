@@ -1,4 +1,3 @@
-block2-mpi
 su-cs144-projectlibs
 su-hang-test
 meshio
@@ -10,14 +9,10 @@ su.password
 su6
 Xiao-su-su
 su6-plugin-svelte-check
-liesym
-python-su
 meshio2
 su-stdlibs-python-coderunner
-PyEFVLib
 su_nester
 django-su
-su-vtda
 su2guitest
 SU2xSU2
 su
@@ -25,10 +20,7 @@ su-run
 su2fmt
 su6-plugin-demo
 django-co-obj-su
-pyaoa
-block2
 distributions-su
-su-stdlibs-python
 student-VS-su
 napari-meshio
 su.webdriver
@@ -43,5 +35,4 @@ django-polls-su
 gmshairfoil2d
 pymmg
 invoicing-su-pdf
-pyhesive
 su2gui

@@ -1,7 +1,6 @@
 pymedio
 pydicom-ext
 presidio-image-redactor-pai-mirror
-ghrepo-stats
 dicom2stl
 dicomtrolley
 gradunwarp
@@ -57,7 +56,6 @@ gias2
 gias3
 dicompyler-core
 py_bonemat_abaqus
-spydcmtk
 PyDicomGrouping-Linux
 medivisio
 pydicom-data
@@ -112,7 +110,6 @@ PyDicomGrouping-Mac
 topasdosecalc
 opentps-gui
 fw-gear-dicom-fixer
-precision-medicine-toolbox
 pymedphys-pylibjpeg-libjpeg
 pyjpegls
 dvha
@@ -122,7 +119,6 @@ brain-stl
 adit-client
 pydicomimg
 rt-utils
-som
 pydicomext
 dicom-parser
 pyorthanc
@@ -130,4 +126,3 @@ portpy
 SlideRunner-dataAccess
 dicom4ortho
 IMAtoDICOMImage
-delia

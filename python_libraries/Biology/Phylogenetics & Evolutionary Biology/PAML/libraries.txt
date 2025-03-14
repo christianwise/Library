@@ -1,7 +1,4 @@
-wgd
-pyasr
 modelestimator-v2
-TwinCons
 paml2html
 ProtParCon
 paml-check

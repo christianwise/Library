@@ -1,14 +1,2 @@
-agama
-galpy
 commensurability
-Sagitta
-peebee
-gravhopper
-GalDynPsr
-galpynostatic
-GalDynPsrSuper
-pickl
-GalDynPsrFreq
 pidgey
-MyGaiaDB
-clustertools

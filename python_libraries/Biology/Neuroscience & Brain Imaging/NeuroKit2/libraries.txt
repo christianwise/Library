@@ -1,13 +1,9 @@
-neurokit2cw
 ecg-quality
 ECG-featurizer
-NeuroHEP
 edgeofpy
 TDSpy
-neurokit
 NeuroKit-Eda-Analaysis
 systole
 biobss
-neurokit2
 e2epyppg
 junifer

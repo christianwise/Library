@@ -3,11 +3,9 @@ cinful
 ANTIPASTI
 cuteSV
 polish-genbank
-protkit
 streamseqs
 itaxotools-pygblocks
 biopython
-python-pdb
 FEV-KEGG
 pyasr
 seguid_calculator
@@ -90,7 +88,6 @@ pybarrnap
 genenet
 Ypredict
 bio-pm
-sadic
 lovis4u
 PoolSeqProGen
 GTsegments
@@ -455,7 +452,6 @@ mTAGs
 scoring-matrices
 headloop
 make-prg
-Structuralia
 moderna
 palamedes
 cpstools
@@ -497,7 +493,6 @@ scarap
 gff3toddbj
 proteinnetpy
 pubmex
-provis
 feather-creator
 HAT-phasing
 pysylph

@@ -4,7 +4,6 @@ jl95terceira-pytools-pp
 jl95terceira-pytools-pp-java
 jl
 static3-jl
-dysts
 cate-jl-ext
 nester_jl
 jl-logger
@@ -14,7 +13,6 @@ jl95terceira-pytools-env-java
 xcube-jl-ext
 JL710Test
 django-data-importer-jl
-jl-realtime-py
 jl95terceira-pytools-env-ssl
 clonedigger-jl
 jl-serverless
@@ -31,13 +29,10 @@ jl95terceira-pytools-env
 mosaik-docker-jl
 jl_scripts
 jl95terceira-pytools-pp-toml
-snippetlib-jl
 ofxstatement-jl-partnership
 jl-exp-deconv
 funniest_jl
 fast-jl
 pygifconvt-test-jl
 ou-tm351-jl-extensions
-pycounts-jl
-django-tracking-jl
 test-first-jl-extension

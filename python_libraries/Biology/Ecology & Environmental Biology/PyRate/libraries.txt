@@ -5,7 +5,6 @@ biar
 mkdocs-material
 fhir-pyrate
 Py-Rate
-pyrates
 zipfile-deflate64
 pyrate
 mkdocs-material-encrypt-search
@@ -25,7 +24,6 @@ pyrate4site
 autoroutes
 pyrate-limiter
 trinket
-pyRaTS
 ronin
 pyratlib
 rectipy

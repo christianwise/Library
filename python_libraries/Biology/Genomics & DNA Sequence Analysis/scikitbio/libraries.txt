@@ -9,7 +9,6 @@ lorann
 ai-serving-server
 auto-ts
 vegascope
-zwyfastai
 statjax
 py-rankaggregation
 umls-downloader
@@ -48,7 +47,6 @@ py-mcc-f1
 flask-pgsql
 lcurvetools
 RHaP
-napari-accelerated-pixel-and-object-classification
 scikit-multilearn-ng
 kitsu
 srai
@@ -57,7 +55,6 @@ pyvtools
 gauss-rank-scaler
 skseries
 dockonsurf
-flwr
 polar
 verbecc
 physiokit
@@ -73,7 +70,6 @@ dicom-mask
 micro-learn
 scipy-cut-tree-balanced
 stanford
-hicstuff
 loter
 optuna-fast-fanova
 das_unsupervised
@@ -85,7 +81,6 @@ lenskit-sklearn
 litkit
 trainstation
 ansible-scribe
-DNAHash
 skimage
 EasyMLTool
 bionic-writer
@@ -137,7 +132,6 @@ sklearn-evaluation
 rs-fec-conv
 fpdataviewer
 oo_trees
-gb-io
 eazyml-insight
 mantarray-waveform-analysis
 whatlies
@@ -146,7 +140,6 @@ credit-scoring-toolkit
 bambird
 learning-curves
 HyperclassifierSearch
-watchui
 pyuplift
 mlserve
 psyml
@@ -156,7 +149,6 @@ fooof
 fasthep-logging
 projection-pursuit
 scikeras
-NeurIPS22-CellSeg
 gtcacs
 py-plrt
 github-http-api
@@ -206,7 +198,6 @@ aichemy-py
 docplex
 smartdoc15-ch1
 paperscraper
-BabelViscoFDTD
 readlif
 latent-calendar
 spacr
@@ -221,7 +212,6 @@ QuaPy
 fuzzy-c-means
 MISA-XGModel
 groot-trees
-sfs-da
 mtslearn
 scikit-hep
 flash1dkmeans
@@ -231,7 +221,6 @@ seqscore
 histomicstk
 fasthog
 bace
-Tr4der
 ensemble-integration
 HgtSIM
 scar-tool
@@ -264,7 +253,6 @@ dsrt
 sktime-dl
 empyricalrmt
 megspikes
-PREDICT
 promotercalculator
 skifts
 behavython
@@ -277,7 +265,6 @@ DNAProbeDesigner
 scikit-weak
 group-lasso
 screcode
-BCAWT
 pycaret
 navicat-marc
 biom3d
@@ -313,7 +300,6 @@ scikit-small-ensemble
 sklearn-neuro-evolution
 symreg
 phagetermvirome
-scikit-surgerybard
 pidgan
 ovh
 lorepy
@@ -339,7 +325,6 @@ scikit-na
 scikit-survival
 scikit-sparse
 gmr
-podspy
 teacher-xai
 sdflab
 iOpt
@@ -351,7 +336,6 @@ galgo
 agentlib-mpc
 symbolic-learn
 ikpls
-tf-al
 bio2bel-kegg
 NaiveBayesGauss
 dragon-autodl
@@ -391,7 +375,6 @@ pyftdc
 barnaba
 scikit-surgeryfred
 biapol-utilities
-rag-classic-ml
 pptstab
 pymhopt
 chunkdot
@@ -408,7 +391,6 @@ vector
 exeustr
 gdcli
 chemotools
-rustbam
 act-atmos
 napari-segment-blobs-and-things-with-membranes
 xeasy-ml
@@ -439,7 +421,6 @@ mlpro-int-scikit-learn
 ml-model-selection
 cradlebio
 scikit-learn-lambda
-phynteny
 aidetector
 nvflare-light
 bio2zarr
@@ -447,7 +428,6 @@ labware-domain-models
 bat
 python-openc
 pier-ds-utils
-myimg
 comport-ai
 concrete-ml-extensions-hb
 mlpipeline-analyzer
@@ -505,7 +485,6 @@ apscale-blast
 shapwaterfall
 matter-golem
 KRidge-GIN
-arv
 xem-wrapper
 imagegrains
 ensae-teaching-cs
@@ -514,9 +493,7 @@ rfpimp
 pyjibe
 PyRootMancer
 paperoni
-bacpacs
 xdem
-janggu
 adaptmesh
 cobsurv
 dualPredictor
@@ -541,7 +518,6 @@ HyFetch
 ml-report-kit
 MetaPathways
 DBSCAN_multiplex
-dwilib
 molecule-ll
 pyhcrf
 ucb
@@ -565,7 +541,6 @@ vulpes
 shap-bootstrap
 nrel-bird
 mdlearn
-aim-with-auth-support
 BasisConvolution
 iceberg-penguins.search
 pyscf-ac0
@@ -605,7 +580,6 @@ sentivi
 sklearn2
 feltlabs
 stardist
-pipeline-viz
 bio-transformers
 ts-scikit-optimize
 IREX
@@ -616,7 +590,6 @@ CMakeCatchTemplate
 causaltune
 scikit-curve
 CBioNAMER
-genomepy
 sms-spam-detection
 bio2bel-pfam
 cyrius
@@ -632,19 +605,15 @@ xrpatcher
 parampacmap
 bio-embeddings-esm
 tql
-loco-hd
 AgainML
 dask-searchcv
-pdb-toolkit
 pycit
 shamo
 scikit-MTR
-microbio
 pymc-learn
 ode-explorer
 sklearn-contrib-lightning
 omegaml
-fastBio
 fast-hdbscan
 intronIC
 dnn-locate
@@ -658,17 +627,13 @@ bert-serving-server
 eyeGestures
 slimgui
 QuantumTuna
-l-giremi
 skstan
-tn93
 FODGE
 generalize
-linreg
 aiq-cli
 XCurveLearn
 GluPredKit
 equate
-textaugment
 datacamp-downloader
 napari-error-reporter
 greenotyper
@@ -697,22 +662,18 @@ john-toolbox
 za
 gecs
 opennn-pytorch
-housing-traning-5519
-variantbreak
 boar-pv
 netatmoqc
 SNPmatch
 bob.bio.spear
 scikit-my-surprise
 mlimputer
-sp-repo-review
 floc-simhash
 biorad1sc-reader
 Bio-Epidemiology-NER
 psap
 al360-trustworthyai
 scikit-multiflow
-scikit-ribo
 archive-pdf-tools
 sklearn-xarray
 feature-transform
@@ -720,7 +681,6 @@ sports-betting
 chemicalchecker
 physbo
 kmeans-smote
-menace
 lazy-loader
 optuna-integration
 survivalist
@@ -738,7 +698,6 @@ biograder
 bio-embeddings
 shorttext
 skleernexample
-liom-toolkit
 pymars
 peasyTracker
 blurhash-pyside
@@ -758,7 +717,6 @@ moo-learn
 hezar
 pyts
 lfepy-gpu
-tokenease
 corsika-panama
 truesight
 Conect2ai
@@ -772,7 +730,6 @@ latent-semantic-analysis
 setvaluedprediction
 serhiisavruk-kxQ2GLDZtw
 gamlet
-ProteinClusterTools
 polyaxon-deploy
 pathways
 cyclicbm
@@ -829,7 +786,6 @@ dask-histogram
 eazypredict
 bibmon
 darts
-DAStk
 AutoRF
 sortedl1
 allennlp-dataframe-mapper
@@ -838,7 +794,6 @@ jupyter-quant
 renku-bio
 ml4qc
 oae
-napari-skimage-regionprops
 giotto-ph
 hyperfast
 scikit-pytsk
@@ -846,7 +801,6 @@ sqlalchemy-model-builder
 ai-serving-client
 bayesvalidrox
 mini-face
-gbif
 hoi
 parsecpy
 tune-easy
@@ -872,7 +826,6 @@ skcrf-tagger
 mplexable
 pythresh
 semantic-counter
-bio-pm
 bob.bio.caffe-face
 mol2vec
 flspp
@@ -906,10 +859,8 @@ vsi2tif
 labs
 intersectionalipy
 domainmodelexaminer
-dhllinalg
 admix
 seed-intersphinx-mapping
-SnapGeneFileReader
 fast-ensemble
 birdbrain
 weles
@@ -949,7 +900,6 @@ damescikit
 apifish
 nerblackbox
 resolwe
-CapiPy
 rnanorm
 mri2mesh
 convst
@@ -962,7 +912,6 @@ networkinference
 zensols.amr
 hundlab-PyLongQt
 xmcluster
-py-gfe
 compositeai
 opencv-python-headless-fips
 nedextract
@@ -971,7 +920,6 @@ ml-rapids
 eazyml-cf
 soft-dtw
 opencovis-python-headless
-django-commoncontent
 html2info
 predictor
 Gammalearn
@@ -1006,7 +954,6 @@ dit
 pyrfkit
 fastlbp-imbg
 cmn-ai
-keymorph
 pyspatialml
 paragami
 liccheck
@@ -1043,15 +990,11 @@ PYPGLM
 optimal-regressors
 febolt
 iterativefiltering
-HiCHap
 imgProcessor
-mvSPC
 MetaHeuristicsFS
 orf
 ClassiPyGRB
 ximage
-seqpandas
-VirtualEnvOnDemand
 tom_lib
 gen-pod-uq
 easyexplore
@@ -1082,7 +1025,6 @@ pol
 django-tabbed-admin2
 scend
 espsim
-hydrocluster
 tf-simple-metric-learning
 simbsig
 y0-bio
@@ -1105,7 +1047,6 @@ infoselect
 mercury
 gaplearn
 acribis-scores
-sequence-unet
 PrasBridge
 teachablehub
 ml-tuning
@@ -1156,15 +1097,12 @@ rootpy
 dvidtools
 timebasedcv
 mergekitty
-funfolding
 lnbase_biolab
 pyrff
 pixelterm
 MLLytics
-nameco
 setfit-dont-use-deprecated-dataset-filter
 nntm
-pywinEA
 pywebsoc
 toothpick-learn
 scikit-gpt
@@ -1178,7 +1116,6 @@ stickleback
 guidedlda
 roughsets-base
 scikit-surgeryspeech
-ardent
 uniprot_lb_poo
 toupy
 bio-datasets
@@ -1202,12 +1139,10 @@ confidenceinterval
 pybrokk
 pystereoalgeval
 verve
-cuteSV
 p-decision-tree
 MonitoringCustomMetrics
 prenigmaautoml
 Sagittarius-api
-root-numpy
 alt-profanity-check
 pandaSuit
 inaccel-scikit-learn
@@ -1278,7 +1213,6 @@ hessianfree
 sagemaker-containers
 missingpy
 G4-Lib
-DLCV
 springtime
 supportbot
 srlearn
@@ -1319,7 +1253,6 @@ mahalanobis
 replapi2
 scikit-downscale
 texthero
-psite
 python3-dtls
 snc
 DigiPathAI
@@ -1361,7 +1294,6 @@ hatch-cpp
 TweetBench-andrewmagill
 pytorch-metric-learning
 bigml
-ensembl-genomio
 gatria
 pycax-client
 anlearn
@@ -1443,8 +1375,6 @@ arrayfire-binary-python-wrapper
 mplex-image
 ddn3
 saoovqe
-SimpleITK
-meningotype
 pbatoolkit
 shml
 agentnet
@@ -1569,7 +1499,6 @@ radwave
 log2db
 atcy-pkg-tcy
 pymarian
-NNTRY
 trains
 scrape-up
 extendanything
@@ -1594,8 +1523,6 @@ schema-change-risk-engine
 zipline-crypto
 sklearn-deap
 pystem
-fraggler
-neatbio
 spoke-scikit-learn
 bbknn
 admirepred
@@ -1609,7 +1536,6 @@ optracker
 reveal-graph-embedding
 mglearn
 skloess
-disptools
 nodejs-wheel-binaries
 package-auto-assembler
 cdb-cellmaps
@@ -1665,9 +1591,7 @@ fast-tmfg
 grumps
 watex
 survival-datasets
-DeepSecE
 spicy-vki
-cs-ob-mini-scikit-learn
 spacv
 so4gp
 awtest
@@ -1685,7 +1609,6 @@ wall-ml-prediction
 pdtr
 nbqa
 sklearn2docker
-napari-mahotas-image-processing
 warfit-learn
 trava
 emllib
@@ -1706,12 +1629,10 @@ mlsocket
 buildml
 redis-om
 mealprep
-PyMutSpec
 fiverr-api
 argus
 impedance
 effcossim
-djangocms-lab-publications
 scikit-spark
 pydatasci
 similarity-processor
@@ -1751,7 +1672,6 @@ bw-temporalis
 causal-dmir
 fcmpy
 antipickle
-afpropred
 ImbalancedLearningRegression
 house-price-prediction-6112
 clearbox-wrapper
@@ -1769,7 +1689,6 @@ bio-ml
 hashedindex
 pythonpredictions-cobra
 imshowpair
-glm-utils
 uhi
 embedpvp
 stepwise-mol-bio
@@ -1813,7 +1732,6 @@ border-patrol
 auton-survival
 simglucose
 hyperactive
-transposonmapper
 netlens
 simple-kNN
 skserve
@@ -1829,7 +1747,6 @@ scikit-mlm
 landspy
 som-pbc
 bankstatementextractor-sau
-abutils
 mord
 torch-uncertainty
 wanglaoshi
@@ -1839,12 +1756,9 @@ automeans
 django-usermanagement-interface
 scikit-learnt
 tsforge
-bilateralfilter_torch
 enveloc
 dpat
-bio-arc
 gamma-facet
-lrl
 flexcode
 raitracker
 skgrf
@@ -1854,10 +1768,8 @@ scikit-build-core-conan
 lexicons-builder
 contort
 cmake
-cy
 mAdvisor
 simplysklearn
-nipet
 linearboost
 pyvpd
 em-transfer-learning
@@ -1865,13 +1777,11 @@ lpproj
 bio-attention
 speculator
 nlpatl
-protpy
 bamboos
 ModifiedNB
 starknet-skproof
 CaseRecommender
 deskew
-pygenomics
 snowland-image
 pyfacegen
 WAF-AI
@@ -1912,7 +1822,6 @@ qmlearn
 ditalini
 milieux
 breakfast
-NodeCoder
 dbpy
 cga2m-plus
 dyneusr
@@ -1926,7 +1835,6 @@ ela
 rvsearch
 lvec
 fast-ml
-pyhmmer-arm
 vulcanai
 selectio
 male-pedigree-toolbox
@@ -1963,7 +1871,6 @@ productml
 conduits
 pathogen
 pug-nlp
-pyradiomics
 yaetos
 trustee
 smurf-imputation
@@ -1988,8 +1895,6 @@ evalipy
 pypeds
 hilbert-toolkit
 giotto-time
-NanoMethCluster
-PartSeg
 checkrs
 gaston-spatial
 mlprodict
@@ -2026,7 +1931,6 @@ breathing-cat
 piquasso
 smo
 sebastes
-django-flexible-content-ckeditor
 sklearn-fuzzy
 sequencelearn
 feature-aggregation
@@ -2038,7 +1942,6 @@ torchsvm
 jackofalltrades
 pidcalib2
 skdesign
-clfutils4r
 pnumpy
 merf
 freddi
@@ -2062,7 +1965,6 @@ philharmonic
 dh-scikit-optimize
 pyswarming
 corrct
-biopython
 pymune
 t4gpd
 wikit-chatintents
@@ -2094,7 +1996,6 @@ nmf-gucky92
 glmnet2
 aghast
 fm-track
-kernelmethods
 cimcb-lite
 narwhals
 steppy-toolkit
@@ -2137,7 +2038,6 @@ ultimate
 fanalysis
 squander
 intermine-bio
-efusor
 splicejunxchx
 pg-sui
 gaitmap
@@ -2167,7 +2067,6 @@ nearness
 feature-engine
 napari-blob-detection
 sk
-immutable-data-validation
 pygram11
 absolutely-not-scikit-video
 BDMLtools
@@ -2215,11 +2114,9 @@ tsne-mp
 dprofiles
 adagenes
 TextClassifier
-pyfastani
 StableCox
 sklearn-nature-inspired-algorithms
 octopus-ml
-G4SNP
 wefe
 SOAPy-st
 quicksemble
@@ -2228,7 +2125,6 @@ decision-tree-id-fork
 metacluster
 neuro-mf
 wildboar
-pyanno4rt
 vflow
 dlex
 pymdmix-run
@@ -2240,7 +2136,6 @@ deeponnxcustom
 bio2bel-hmdd
 clearml-serving
 grenadine
-alv
 neuropop
 checkpointed-steps
 keras-importance-sampling
@@ -2277,7 +2172,6 @@ larcv
 pybind11-global
 snnpy
 polire
-osESD
 hipomap
 torchclust
 fabia
@@ -2299,9 +2193,7 @@ suite2p
 Odte
 evopreprocess
 mankey-stats
-sompy-package
 remotesense-learn
-rna-cd
 LAMDA-SSL
 scikit-surgeryopencvcpp
 HoChiMinh
@@ -2315,7 +2207,6 @@ smtools
 stDCL
 paysage
 gbrf
-mah51-biopython
 nemo-bo
 spytex
 fast-pauli
@@ -2332,7 +2223,6 @@ orion-ml
 ratesb-web
 zuffy
 bio2bel-drugbank
-bareditor
 auto-ml-models
 sk-autobots
 corrai
@@ -2345,9 +2235,7 @@ eazyml-data-quality
 fvhd
 gmm-gpu
 biodive
-rocket-space-stuff
 octis
-cs-mini-scikit-learn
 oxonfair
 bankstatementextractor-final
 pandaslearn
@@ -2369,7 +2257,6 @@ NeuralNetworkSelection
 wrapyfi
 scikit-transformers
 ludwig-myelin
-SureTypeSC
 retinotopic-maps
 crossval-ensemble
 amltk
@@ -2394,7 +2281,6 @@ colt
 multi-imbalance
 noteshrunk
 pentapy
-ngmaster
 mmrotate
 scikit-stack
 tx2
@@ -2407,7 +2293,6 @@ tmtoolkit
 sknnr
 yescarpenter
 Lang2Logic
-iQual
 profab-pypi
 pftk
 FLAML
@@ -2437,7 +2322,6 @@ genieclust
 onetouch
 brainless
 glvi
-ANTIPASTI
 scikit-opt
 InstaWebBot
 para-impute
@@ -2531,12 +2415,10 @@ diploSHIC
 skdag
 python-glmnet
 opencovis-contrib-python
-genderclf
 pycatima
 ragmap
 surface-construct
 selfeeg
-mycoai-its
 scikits-odes-core
 imread-benchmark
 stardist-sparse
@@ -2554,7 +2436,6 @@ clusttraj
 bio-pypage
 adaptive-dbnn
 saltclass
-deepnog
 twigy
 Team-1-library
 huggingface-rdf
@@ -2634,7 +2515,6 @@ torch-efd
 kennard-stone
 mangoplateapi
 bbcpy
-cazomevolve
 somap-py
 snspotting
 ciipromol
@@ -2698,7 +2578,6 @@ mlflow-saagie
 sklearn-pmml-model
 vineyardutils
 neoloop
-ndreg
 MUSiCC
 ezqc
 pymc3-ext-wlad
@@ -2754,7 +2633,6 @@ eegio
 sk2torch
 scikit-embeddings
 plasclass
-dvha-stats
 sklearn-genetic-opt
 spkit
 halo-fdca
@@ -2774,11 +2652,9 @@ GEMA
 pySAR
 NeoBase
 members
-coffea
 slipcover
 bunruija
 nonstationarity
-raz
 ddl
 pycity-scheduling
 voxel-obstacle-detection
@@ -2787,7 +2663,6 @@ fastoranalysis
 scsdpy
 skfeature-gli
 kditransform
-padmet
 CGvsPhoto
 Gene-POCKET
 scClassifier2
@@ -2822,7 +2697,6 @@ deepsphere
 SKNet
 stacking
 uncwrap
-jla-tailer
 tazids
 torchgmm
 hypertune
@@ -2846,7 +2720,6 @@ thLib
 resume-parser
 pastalib
 CFEC
-housing-library-5496
 bio2bel-msig
 meco
 cuda-histogram
@@ -2854,7 +2727,6 @@ oebuild
 PyDimRed
 lytomo-watershed
 testgrumps
-MedPy
 abstraction
 ktrain
 biomimetic
@@ -2899,7 +2771,6 @@ keras-generators
 em-deepfinder
 imagescore
 titanium
-affine-gaps
 tinyusdz
 lda
 vIQA
@@ -2922,14 +2793,12 @@ qaa
 kwoq
 cntext
 PassportEye
-udocker
 neuroshape
 ocrd-wrap
 exposing
 ehtim
 seeborn
 slabdip
-xmvi
 wai.ma
 pyxmip
 qsarify
@@ -2944,7 +2813,6 @@ scikit-qlearn
 hmc_loss
 edbscan
 validate-pyproject
-Bio_Eutils
 scikits.datasmooth
 mini-scikit-learn
 cplxmodule
@@ -3017,7 +2885,6 @@ splunk-toolbox
 pytorchcml
 cdpred
 mlpredictor
-DSM-tools
 ts2ml
 khmer-english-transliteration
 poremks
@@ -3123,7 +2990,6 @@ scikit-fingerprints
 imea
 scikit-splearn
 python-statespace
-tiatoolbox
 vecstack
 discrust
 forecastflowml
@@ -3141,7 +3007,6 @@ dp-mobility-report
 pysofia
 tigramite
 dataramp
-raleigh
 model-provenance
 model-diagnostics
 pervect
@@ -3185,7 +3050,6 @@ sklearn-dummies
 spock
 exopropred
 featureimpact
-scSplit
 conect2py
 pyo-oracle
 MDA-learn
@@ -3209,7 +3073,6 @@ clustpy
 bioeval
 datati
 influxdb-client
-cobra-meta
 3DeeCellTracker
 tkitAutoTokenizerPosition
 vectorai
@@ -3220,7 +3083,6 @@ functional-sampling-tool
 sklearn-features
 pydra-ml
 pykebabs
-taxmyphage
 zoish
 NXTensor
 model-bakery
@@ -3237,7 +3099,6 @@ comptox-analysis
 gawp
 tidylinreg
 arkas
-kmerdb
 constrainedlr
 easylearn
 img2bw
@@ -3265,7 +3126,6 @@ PyIntervalTree
 llama-lime
 MDAnalysisData
 bob.bio.face
-phase-extender
 wlabkit
 step-select
 scikit-learn-pipeline-utils
@@ -3273,7 +3133,6 @@ django-profanity-check
 scikit-fusion
 boost-histogram
 musc
-BdRPCpackage
 dulogpy
 quantulum
 iotbr
@@ -3285,7 +3144,6 @@ categorical-embedder
 smartsvm
 super-ivim-dc
 SBMLDiagrams
-jointbilateralfilter_torch
 compress-fasttext
 TfELM
 mltrain
@@ -3294,7 +3152,6 @@ vaganboostktf
 bio2bel-adeptus
 mllearn
 torch-choice
-pairwise-sequence-alignment
 eds-scikit
 fawltydeps
 ferret-xai
@@ -3374,7 +3231,6 @@ pysysid
 peakipy
 spherecluster
 python-bioformats
-krisp
 elo-grad
 messageanalyzer
 msk-seg-util
@@ -3383,7 +3239,6 @@ time-series-binder
 hmm-py
 crowd-kit
 vectorizers
-deeptree
 scikit-forecasts
 conda-press
 MLCLAS
@@ -3391,7 +3246,6 @@ bandicoot
 bingo-nasa
 bigrams
 dexterity.membrane
-MIScikit-Learn
 irf
 data-manipulation-utilities
 NERP
@@ -3407,16 +3261,13 @@ MDML
 nanobbox
 Jvis-learn
 jupytalk
-jaeger-bio
 adaptivepca
 ntxpred2
 mlflow-stonewise
-nirwals
 pymc3
 mcnets
 visar
 wolpert
-scikit-step
 ptyp
 brforest
 lingualytics
@@ -3424,16 +3275,13 @@ archetypes
 pyvinecopulib
 juno-dkt
 optuna-learn
-shared-nearest-neighbors
 skeletor
 scikit-diveMove
 clearml
 dipoleq
 scikit-numerical
 pycucim-cu11
-SimpleITK-SimpleElastix
 hera-calibration
-FastaTransformer
 scikit-comm
 sourmash
 NiaAML
@@ -3450,12 +3298,10 @@ kladia
 tidal-wave
 sperm
 stochastiCV
-ecpick
 FeatureFlex
 bio-apricot
 fast-matrix-market
 xai-compare
-stringzilla
 bio-ting
 easyML
 Customer-dna
@@ -3470,7 +3316,6 @@ masterkeys
 history-matching
 stprofiler
 Timesweeper
-imagepy
 gemmi-program
 magentropy
 graphcompass
@@ -3509,8 +3354,6 @@ automl-alex
 raytraverse
 sourmash-plugin-containment-search
 nclearn
-imglyb-examples
-scikit-res
 gradio-msaplot
 nlpkit-ml
 mrsqm
@@ -3524,7 +3367,6 @@ vineyard-migrate
 skflex
 setfit
 hundlab-AFAT
-pyradiomics-bhklab
 enkanetwork.py
 sklx
 mistree
@@ -3541,13 +3383,11 @@ gttk
 TensorFox
 ironoc-pytest-conor-heffron
 disjunctive-nn
-tsne
 cascadio
 yutani
 scikit-rough
 huehush
 timetomodel
-sonicparanoid
 scikit-mobility
 BioProps
 aind-dynamic-foraging-data-utils
@@ -3583,7 +3423,6 @@ babyyoda
 primetrydemo
 p1afempy
 muCART
-conda-deps
 fluffypancakes
 arfs
 fqt
@@ -3641,7 +3480,6 @@ cambrian-core
 image2layout-computer-vision
 diveplane-reactor-api
 sagemaker-scikit-learn-extension
-pymetamodels
 scikit-cache
 scikit-surgeryvideoutils
 pyBumpHunter
@@ -3728,14 +3566,12 @@ classifier-anshp
 lipo
 adversarial-robustness-toolbox
 hitac
-Dosepy
 qxbranch.quantum-feature-detector
 dash-bio-utils
 firelight
 resnet-simple
 auromat
 pystreed
-OpenRV
 scikit-stan
 tpcp
 apple-ocr
@@ -3794,11 +3630,9 @@ pymlbenchmark
 torch
 MD-MTL
 zorro-df
-ChromoPhyloGen
 fcvisualization
 audioio
 tensorcross
-phylotoast
 memento-ml
 chainladder
 PIMS
@@ -3826,7 +3660,6 @@ ShortestPathSearch
 EmBCI
 trill-proteins
 chariot
-dicompyler-core
 skl-groups
 pepe-granular
 dcszap
@@ -3899,7 +3732,6 @@ streaminghub-curator
 calibra
 scikit-eval
 duolingo-api
-pub.tools
 cellmap
 treeple
 ExtremeLy
@@ -3920,7 +3752,6 @@ autoviml
 DESlib
 generalized-additive-models
 biobabel
-django_carbon
 ddplt
 innatis
 napari-mm3
@@ -3944,7 +3775,6 @@ clbtope
 pandas_confusion
 hedra
 crackdect
-cygnusdb
 vdm3
 apkid
 nlpcda
@@ -3953,7 +3783,6 @@ VideoAnalysis
 opencortex
 skfdiff
 jina-core
-dvha
 CLTV
 csle-tolerance
 runml-checks
@@ -3987,7 +3816,6 @@ text-processing-util-mds24
 rsmtool
 librmm-cu11
 bio-cntrs-analyzer
-raccoon-cluster
 corticod
 safe-transformer
 image-preprocessing-comparison
@@ -4002,7 +3830,6 @@ astrafocus
 yamlett
 snputils
 allfreqs
-flwr-nightly
 bio_assembly_refinement
 tfIdfInheritVectorizer
 tabular-augmentation
@@ -4127,7 +3954,6 @@ brainblocks
 grakel-dev
 akhdefo-functions
 scikit-criteria
-coalispr
 mablars
 pylgs
 slycot
@@ -4161,8 +3987,6 @@ pcloud
 squidpy
 csle-common
 prediction-flow
-dcmp
-sphinx-gallery
 tyxe
 rawML
 bbf
@@ -4180,7 +4004,6 @@ gauss-bio-dist
 deep-autoviml
 bio-allo
 pure-predict-evo1
-jcast
 pytan
 sprout-ml
 nismod-snail
@@ -4202,7 +4025,6 @@ nebulous.py
 opencv-contrib-python
 oreum_core
 detect-attacks
-daepy
 data-utilities
 KRidge-INFO
 dadapy
@@ -4218,7 +4040,6 @@ kinbaku
 il5pred
 texta-crf-extractor
 memail
-pandoo
 genra
 coroICA
 scikit-optimizer
@@ -4243,11 +4064,9 @@ torchbearer
 django-whiff
 MicroView
 LFSpy
-djangolearn
 banner
 sklearn-pycrfsuite
 swi-ml
-strainge
 lda-classification
 lightpredict
 clinica
@@ -4300,7 +4119,6 @@ topic-wizard
 viz-scout
 imgseries
 apclusterv
-orcapy
 flight-ad
 VEnCode
 powershap
@@ -4335,7 +4153,6 @@ timeSeries-processing
 omnixai
 bio2bel-entrez
 bioaug
-pyhmmer
 bert-serving-multilingual-client
 lmdiag
 pygtm
@@ -4379,13 +4196,11 @@ boilerplatecode
 omnixai-community
 awkward0
 starboost
-epilogos
 pymdmix-solvent
 sklearn-model
 cfed
 zca
 pyESD
-nnfasta
 mpyc-custom
 modulo-vki
 mars-gym
@@ -4393,7 +4208,6 @@ tkextrafont
 Scikit-longitudinal
 aeon
 fastq
-wgd
 pyprobml
 py-entitymatching
 asmpy
@@ -4417,7 +4231,6 @@ morse-audio-decoder
 scikit-ollama
 fABBA
 palx
-teritori
 gemmr
 mprod-package
 cir-model
@@ -4432,19 +4245,15 @@ sktime-backup
 nodevectors
 eland
 biosutilities
-multihist
 psyke
-scoring-matrices
 qojpca
 CoastProc
-PLoT-ME
 classification-report
 dame-flame
 tracktotrip
 gpie
 west-ic-antenna
 mlflow-by-ckl
-flighted
 pybci-package
 shirokumas
 SubCMedians
@@ -4503,14 +4312,12 @@ pure-predict-sec
 pylc3.autograder
 scikit-spatial
 krecommend
-dosma
 conmo
 zisnmf
 skchat
 moana
 tape-proteins
 sumnplot
-plncpro
 nlpia2
 ClassificaIO
 dpu-kmeans
@@ -4549,9 +4356,7 @@ ggg
 hyperimpute
 sktlearn-clone
 datexplore
-DuctApe
 top-github-scraper
-protlearn
 deeptexture
 cluster-ga
 verde
@@ -4570,7 +4375,6 @@ dbgis
 simages
 pipesnake
 achibdatalib
-ceemdan-seglstm-gradient-boost
 fingerprints-unam-colab
 cochlea
 DRRTools
@@ -4586,10 +4390,8 @@ nilm-analyzer
 nolearn-utils
 surprise
 adhoconda
-vcfio
 pyopenbt
 graforvfl
-pypoem
 diego
 KTBoost
 bob.bio.htface
@@ -4617,7 +4419,6 @@ bio-embeddings-plus
 xtreme-vision
 sklearn-compiledtrees
 museotoolbox
-metadatamapping
 msdss-models-sklearn
 NXTfusion
 blosum
@@ -4628,20 +4429,17 @@ scikit-chat
 playwithML
 tda-mapper
 usearch
-ssms
 pasts
 brainowl
 skoot
 functionalfilet
 catnip-bio
 anomatools
-pygfe
 fold-core
 plunge
 plainml
 riix
 onprem
-HuMobi
 focus-opt
 scikit-onnxruntime
 flimview
@@ -4730,7 +4528,6 @@ LatentBoostClassifier
 pycoQC
 bio2bel-mesh
 opt-sugar
-monai-deploy-app-sdk
 processdat
 mletrics
 davos
@@ -4758,7 +4555,6 @@ tropea-clustering
 mtm
 declare4py
 pymembus
-mssw
 LoupeTool
 starred-astro
 sklearn-discretefirstorder
@@ -4788,13 +4584,10 @@ cmake-odidev
 cobras-ts
 mlrose-reborn
 wakeonlan
-WORC
 nanomesh
 spotlob
-pypef
 orio
 fastgplearn
-abstar
 Skperopt
 scikit-ci
 PyTEAP
@@ -4811,7 +4604,6 @@ pybrainlife
 u-Segment3D
 operalib
 binwise
-GPatch
 ace-sklearn-crfsuite
 minotaur-trading
 pyfmaps
@@ -4838,7 +4630,6 @@ scipy-maxentropy
 scikit-surgerysurfacematch
 LGNpy
 typs
-taranys
 bio-embeddings-allennlp
 lapras
 memo-ms
@@ -4849,7 +4640,6 @@ opencv-python-headless
 papierstat
 train-unet
 bci4als
-attribution-quality
 rmm-cu12
 pylibcucim-cu12
 pypantera
@@ -4897,7 +4687,6 @@ drawdata
 SandiaSpecUtils
 omega-machine-learning
 opencv-python-asen
-DataPrepKitz
 fastjet
 heflow
 missingvalues-101703297-ucs633
@@ -4973,9 +4762,7 @@ lightgbm
 pymilo
 addrmatcher
 BaselineRemoval
-just-agents-coding
 yellowbrickhotfix
-orffinder
 xautoml
 motormongo
 plantdrppred
@@ -4983,7 +4770,6 @@ bankstatementextractor
 BAMT
 meliora
 DependiPy
-pyparty
 goofit
 neurodecode
 rubyapps
@@ -4998,7 +4784,6 @@ dwdwfsapi
 medical-named-entity-recognition
 mdbenchmark
 eilof
-protloc-mex1
 alpaca-proteomics
 ocrpackage
 simplesbml
@@ -5018,7 +4803,6 @@ runnable
 odoo12-addon-beesdoo-product
 zi
 RNN4IE
-gwaslab
 libretro-finder
 spaco-release
 qiskit-algorithms
@@ -5069,7 +4853,6 @@ dpsailab-util
 persistable-clustering
 populse-mia
 cleancourt
-imgbasics
 ai-code-sandbox
 kdlines
 model-server
@@ -5083,7 +4866,6 @@ exoscene
 hepconvert
 vmapper
 nowpy
-genoml2
 example-package-elisno
 experiment-config
 bdata
@@ -5091,7 +4873,6 @@ async-batcher
 schicluster
 ServeIt
 mirzai
-datamapplot
 dask-ml
 predictit
 cholespy
@@ -5101,7 +4882,6 @@ QGCN
 scicookie
 abil
 kameris
-fastai2
 AMON-bio
 simple-ans
 skgpytorch
@@ -5113,10 +4893,8 @@ sklearn-compat
 scikit_rest
 h2o-autodoc
 listwizard
-csstar
 gullikson-scripts
 musicntwrk
-bacphlip
 pyalign
 glmnetforpython
 AJGM
@@ -5154,7 +4932,6 @@ BoxKit
 pyrus-decision-tree
 image-processing-navpack
 vnpy-extra
-oxDNA-analysis-tools
 pleque
 pySEACR
 model-unpickler
@@ -5181,14 +4958,12 @@ hmmlearn
 metabolinks
 deflicker
 asesurfacefinder
-oligo-designer-toolsuite
 bio-lm
 adaXT
 modelLab
 scikits.learn
 scikit-time
 pyproject-deplister
-APEC
 minsearch
 tgapp
 SrbAI
@@ -5198,7 +4973,6 @@ fn-graph
 ediff
 ClustSim
 ponders
-pandas-charm
 tagmaps
 skggm
 petropy
@@ -5230,7 +5004,6 @@ PyMVPD-LITE
 BuildSimHubAPI
 scikit-MDR
 pyemits
-exist
 content-extractor-pi
 FuzzTypes
 jupyter-analysis-extension
@@ -5247,7 +5020,6 @@ suite2p-haisslab
 romepy
 pykrev
 pktree
-calpit
 Lutil
 PLANBERT
 km3net-testdata
@@ -5327,8 +5099,6 @@ qreservoir
 deepsemhist
 sigopt-sklearn
 salik
-wsidicomizer
-tryangle
 analoguesplit
 bettergitcli
 recnetpy
@@ -5341,13 +5111,11 @@ mcd-stitcher
 scikit-gaze
 deeptrack
 km3io
-taiga-bio
 scMGCA
 run-torch-model
 scikit-multilearn
 tseries
 gasearch
-tensorcore
 napari-bioformats
 surmise
 jupyter-nbrequirements
@@ -5521,7 +5289,6 @@ pycadet
 polar-diagrams
 biolearn
 regionskate
-pywoe
 ti-containers
 tesspy
 ripser
@@ -5538,10 +5305,8 @@ cbptools
 journai-lib
 eippred
 sklearn2c
-fedn
 bsbankspkg
 pycucim-cu12
-pycyclops
 presto-requests
 pygda
 searchai
@@ -5551,7 +5316,6 @@ fodnet
 skproof
 mutar
 feds.py
-gimble
 graymatter_swissknife
 scikit-surgerytf
 ft-scikit-optimize
@@ -5566,7 +5330,6 @@ soilspectfm
 heat
 numerai-cli
 scikit-lego
-housing-library-5520
 tsnmf
 nlprov
 temporian
@@ -5583,7 +5346,6 @@ workfloz
 scikit-statistics
 dsci-310-group-10-package
 vocalpy
-himena
 wnetron
 MAOC-mol-rep
 fselect
@@ -5628,7 +5390,6 @@ exhaufs
 scikitcrf-ner
 package-outlier
 MetaFEDOT
-NNDensity
 privy-presidio-utils
 explorytics
 catfish-sim
@@ -5636,11 +5397,9 @@ funpredict
 ml-proj-init
 nxt-gem
 skwdro
-pubmed-lib
 librmm-cu12
 pct-tools
 semantic-components
-bmww-api
 molfeat
 scikit-visualizations
 soil-moisture-prediction
@@ -5659,7 +5418,6 @@ nopapy
 trendypy
 ppscore
 mol-translator
-duecredit
 forestci
 audit-AI
 mlr
@@ -5682,7 +5440,6 @@ Multi-Layer-Kernel-Machine
 simplediskimage
 tune
 dynamic-tuna
-opentps-core
 mplhep
 ppmml
 imgPreprocessor
@@ -5705,7 +5462,6 @@ nlpeasy
 float-evaluation
 eazyml-dq
 diamondback
-incenp.binseqs
 usefuladb
 itemseg
 matadi
@@ -5715,12 +5471,10 @@ scireader
 chipsff
 MultiTrain
 gblpyapi
-reoptimize
 ml-research
 get-patchlib
 lazyqml
 few-shot-learning-nlp
-codon-degeneracy
 NucDetect
 stemflow
 ophelian
@@ -5776,7 +5530,6 @@ kozmo-supervisor
 bioencoder
 bob.paper.tifs2018-dsu
 mlutil
-pyrodigal
 astroalign
 pifacecam
 infertrade
@@ -5789,7 +5542,6 @@ tbscm
 cdl
 kochat
 guide-seq
-bio-volumentations
 topicmodeltuner
 nvflare
 gosdt
@@ -5803,7 +5555,6 @@ mmanager
 boruta_py_versioned
 explain_sklearn
 mlstclassifier_cd
-genclf
 sme
 pyBKT
 SAR-change-detector
@@ -5865,20 +5616,15 @@ xplainit
 dsdp
 scludam
 constrained-linear-regression
-puretabix
 simweights
 nse-nn-lpv
 Gempyre
 mlpath
-little-bio-parser
 xmoai
-nimpa
 wnb
-prody-rhapsody
 raven-hydro
 pyimagej
 jetpack
-polycracker
 metrify
 kavian
 deepdrivemd
@@ -5917,7 +5663,6 @@ a2pm
 titus2
 ComputationalHypergraphDiscovery
 fsvm
-tunepy2
 GSKpy
 sci-mls
 skggm2
@@ -5928,14 +5673,12 @@ shapevolve
 simple-serve
 ichello
 naive-feature-selection
-SATO
 lstar
 DRecPy
 foreshadow
 pyEDAkit
 weyland-yutani
 FLApy
-django-staff
 naomiutils
 pybernetics
 string-kernels
@@ -5961,7 +5704,6 @@ pyclstr
 a62-emotion
 biot-python-sdk
 ANCOVA
-lascar
 pyamr
 mlrose-hiive
 cpufreq
@@ -5976,7 +5718,6 @@ PyColorimetry
 corpusshow
 scikit-mine
 th-sklearn-json
-purple-bio
 mllaunchpad
 searchgrid
 swnn
@@ -6021,7 +5762,6 @@ proset
 kamui
 fuzzable
 atcy
-coretex
 plsexplain
 skytime
 imppy3d
@@ -6037,17 +5777,14 @@ mambular
 rils
 oclrfc
 ctparse
-pyradiomics-fix
 pflacco
 misc-test-utils
 tsquared
 bioimageloader
-educelab-imgproc
 streusle
 dimred
 neural-map
 pyrallel
-pvml
 lsds
 denmarf
 svmlight-loader
@@ -6075,17 +5812,14 @@ DeerNet
 kgsteward
 hgui
 scikit-video
-IBSpy
 SklearnTimeseries
 leakyblobs
 covalent-azurebatch-plugin
 shap-app
 contiguity-base
-pypesh
 nfkbin
 py-automl
 mlqd
-itkwidgets
 pycln
 pytracks
 sldtk
@@ -6104,11 +5838,9 @@ aidapy
 pdal-plugins
 genoforge
 mlfmu
-cc-mini-scikit-learn
 freediscovery
 hal-x
 imodelsx
-GeneGrouper
 bio-grumpy
 h3mlcore
 mbpls
@@ -6181,7 +5913,6 @@ mhclovac
 regex-replacer
 sysutil-lib
 pysen
-pyrat-sdrabing
 rivuletpy
 MASSA-Algorithm
 jfibsem-dat
@@ -6203,7 +5934,6 @@ turftopic
 ds-box
 refit-loader
 lisql
-du
 sc-dandelion
 version-pioneer
 sparx
@@ -6237,7 +5967,6 @@ PyFJCore
 tsam
 light-famd
 run-models
-opentps-gui
 mlflow-by-johnsnowlabs
 oslili
 aquapointer
@@ -6251,7 +5980,6 @@ torch-incremental-pca
 information-composer
 glenoidplanefitting
 gplearn
-biotex
 sagify
 zinv-analysis
 LPDT
@@ -6291,7 +6019,6 @@ osst
 geodog
 datarefiner
 muygps
-neutompy
 pkaani
 CLEMENTDNA
 sigmoid-contrastive-learning
@@ -6312,15 +6039,12 @@ SimpleSocialAuthLib
 customer-churn-classification-model
 scikit-surgery-evaluation
 DeepTricks
-bio-pyvol
 survlimepy
 ptmodels
 eflow
 yourname-instagrapi
 felupe
-nardini
 nucleus-chat
-quasinet
 QSTK
 skforecast
 qsttoolkit
@@ -6332,7 +6056,6 @@ pysindy
 phat-tails
 NiaAML-GUI
 STree
-DL4Phylo
 palladium
 scidag
 fil-finder
@@ -6341,7 +6064,6 @@ epidemia
 lauetoolsnn
 nameseer
 pandora-bio
-RnaBench
 pca-tools
 neuroglia
 friday-face-recognition
@@ -6356,7 +6078,6 @@ a-pandas-ex-image-tools
 grub2-theme-preview
 rolldecay-estimators
 mlcompare
-albion-similog
 bioig
 scikit-mpe
 polars-credit
@@ -6424,8 +6145,6 @@ myriade
 loss-landscape
 citegeist
 scikit-robot
-huggingface-text-data-analyzer
-sklearn-export
 bio_utils
 pyaudio-helper
 pycombat

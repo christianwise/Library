@@ -1,6 +1,5 @@
 python-pinyin
 cord-client-python
-python-injection
 ternion-python
 common-python-difio
 journify-python-sdk
@@ -50,7 +49,6 @@ valr-python
 python-fcl-win32-nr
 json_stable_stringify_python
 python-thunderborg
-Restcomm_Python_SDk
 mu-python-library
 python-libtiepie-bi
 aliyun-python-sdk-smarthosting
@@ -118,7 +116,6 @@ python-function-model
 python-eml
 aliyun-python-sdk-quotas
 ion-python
-huaweicloud-python-sdk-core
 fedex-python
 python-ntfs
 swiml_python_xml
@@ -134,7 +131,6 @@ aliyun-python-sdk-emr
 python-varnish
 python-1inch
 bitly-api-python
-python-packages
 flowtool-python
 python-unfoldedcircle
 python-geoacumen
@@ -214,7 +210,6 @@ porthos-python
 python-lib
 python-pdf-analytics-client
 muse-python
-python-matrixbot
 Distributions-Python
 python-asana
 python-borium
@@ -302,7 +297,6 @@ python-ngrok
 python-common-cache
 python-scalpel
 python-odds
-python-fs-stack
 libra-python
 python-pptx-fork
 aliyun-python-sdk-sls
@@ -334,7 +328,6 @@ cc1101-python
 python-firm
 nipype
 python-getfile
-python-sane
 ddx-python
 bonsai-python
 python-pit
@@ -358,7 +351,6 @@ python-banqup-uc-api
 python-awair-local-sensors
 cn-api-python
 python-gdb-ctrl
-megspikes
 pttavm-python
 python_osinfo
 metabase-python
@@ -387,7 +379,6 @@ lcs-python-bindings
 feishu-python-sdk
 python-cowbull-game
 eos_python_utils
-python-ffmpeg-video-streaming
 python-face-recognition-wrapper
 python-multiplayer
 stone_ecommerce_python
@@ -455,7 +446,6 @@ md2docx-python
 python-omega
 chatgpt-python
 python-rebelliondefense-xsstrike
-mne-features
 python-gssapi
 python-mop
 aliyun-python-sdk-aegis
@@ -476,7 +466,6 @@ linkedin-python
 easy-cord-python
 dungeon-n-python
 python-loki-clientv2
-python-cdd
 vimeo-python-sdk
 python-libpcap
 aliyun-python-sdk-btripopen
@@ -497,7 +486,6 @@ python-griddingmachine
 curso-python101
 aliyun-python-sdk-sts
 gepard-python
-python-flex-cache
 python-guerrilla-mail-brb
 metzoo-python-opc-plugin
 tp-python-docx
@@ -524,7 +512,6 @@ Python-Conio
 python3-migration
 pypeline-python
 azure-translator-python3
-python-som
 bilibili-api-python
 mne-icalabel
 oop-training-python
@@ -555,7 +542,6 @@ python-packaging-sc
 ept-python
 monupco-openshift-python
 aliyun-python-sdk-opensearch
-spor-python
 ffc-server-python-sdk
 python-getting-started
 ciara-python
@@ -598,12 +584,10 @@ Python-stock
 cybrid-api-organization-python
 infer-rvc-python
 currencycloud-python-client
-fw-file
 python-logstash-g
 segment-analytics-python
 python-brickscout-api
 vspscripts-python
-python-openc
 python-rest-model
 python-ctags
 python-lockfile
@@ -617,9 +601,7 @@ cloudbees-openfeature-provider-python
 resvg-python
 panda-python-kit
 cefpython3-for-python-3.8.10-unofficial
-python-see
 gridappsd-python
-python-fullcontact
 brainome-mac-python3.9
 quickey-python-sdk
 python-altcoinlib
@@ -670,7 +652,6 @@ hawk-python-sdk
 python-bitget
 python-gflags
 rotary-controller-python
-python-poco
 upollo-python
 python-elemental
 plaid-python-adapter
@@ -683,7 +664,6 @@ Python-SFDX-Toolkit
 bbox-python
 search-python-client
 python-sunlightapi
-gpt-sovits-python
 datamatrix
 aoc-python-cli
 python-coinage
@@ -743,7 +723,6 @@ python_advanced
 stockly-python-common
 python-csv2json
 move-ugc-python
-lilt-python
 python-compile
 python-jsondoc
 libhdbpp-python
@@ -776,7 +755,6 @@ ionicons-python
 singer-python-fork
 python-decotools
 python-acoustid-api
-hiq-python
 python-subitosms
 ehelply-python-experimental-sdk
 cyvl-python-semantic-release
@@ -802,7 +780,6 @@ python-ttest
 elasticsearch-python-client
 cli-proton-python
 python-paginate
-python-nasa
 mne-realtime
 ost-python
 python-medium
@@ -883,7 +860,6 @@ python-eos
 x10-python-trading
 metabci
 aliyun-python-sdk-videoenhan
-multilingual-python
 torrent-downloader-python
 python-carmd
 schemon-python-logger
@@ -905,7 +881,6 @@ codo-python
 python-neaktor-api
 GraFT-Python
 synmetrix-python-client
-eeghdf
 python-workq
 veridu-python
 cookiecutter-python-package
@@ -921,7 +896,6 @@ abantether-python-sdk
 monero-python
 python-smpp
 python-ovmclient
-hello-python2
 cefpython3-for-python-3.9.6-unofficial
 aliyun-python-sdk-pts
 python-scriptures
@@ -936,7 +910,6 @@ python-allrecipes
 bk-crypto-python-sdk
 google-python-cloud-debugger
 ctodd-python-lib-aws
-coffeine
 python-elastic-logstash
 uwu-python
 transferwise-python-sdk
@@ -1115,7 +1088,6 @@ client-python-tool
 python-can-sontheim
 tor-python-easy
 python-lib-template
-python-xgraph
 python-ddd
 trusender-python
 python-touch
@@ -1172,7 +1144,6 @@ oracle-to-python
 python-mkpy
 higlass-python
 python-trello
-sdt-python
 python-picnic-api2
 ansys-scade-python-wrapper
 data-rte-python-api
@@ -1194,13 +1165,11 @@ aliyun-python-sdk-cr
 bestpython
 python-markdown-comments
 Python-NBT
-python-picard
 python-ari
 ptv-python-wrapper
 python-active-versions
 github-api-python
 python-vagrant-metadata
-python-4chapy
 python-proto
 aliyun-python-sdk-oms
 ganache-python-serv
@@ -1300,7 +1269,6 @@ jet-python
 datarangers-sdk-python
 python-tldap
 haas-python-uv
-opencv-python-headless-fips
 octopus-common-python
 python-opencl
 python3-webappalyzer
@@ -1308,11 +1276,9 @@ python-utilikilt
 RC522-Python
 luogu-api-python
 eway-rapid-python
-boilerplate-sdk-python-jcincotta22
 dhiam-api-python-sdk
 facebook-sdk-python
 python-sdk
-opencovis-python-headless
 python4DBI
 python-etcd-azion
 cvu
@@ -1341,7 +1307,6 @@ python-navitia-client
 cheshirecat-python-sdk
 python-scan
 explicit-python
-MOODS-python
 python-rrmngmnt
 python-snss
 haas-python-qmc6310
@@ -1449,7 +1414,6 @@ python-standardize-it
 calculator-python-2.0
 python3-json-log-formatter
 python3-tools
-gnomock-python-sdk
 aliyun-python-sdk-nas
 python-libfprint
 django-dbconn-retry-python27
@@ -1556,7 +1520,6 @@ python-fotmob-wrapper
 beholdr-io-python-sdk
 SmartPager-Python
 python-social
-bswitch-python
 rackspace-python-neutronclient
 fuck-python-str
 python-osrsapi
@@ -1578,7 +1541,6 @@ databricks-runtime-python-env
 python-recording-tool
 python-studio
 trieve_python_client
-ti-python
 python-radix
 python-asip-client
 python-confluent-cli-wrapper
@@ -1597,7 +1559,6 @@ python-smaz
 gravityforms-python
 python-smshub
 python-ucp-cli
-python-audio-autotest
 python-orgmode
 python-awis
 python-openhab-itemevents
@@ -1624,7 +1585,6 @@ cdot-tree-sitter-python
 python-ottype
 python-boleto
 clpsz-python
-python-pdb
 python-jsonparser
 loggly-api-python
 python-final-project
@@ -1718,7 +1678,6 @@ python-doniclient
 python-auspost
 3a-python-package-ligia
 python-singleton
-Orange3-MNE
 python-licenser
 python-edotenv
 ams-python
@@ -1784,13 +1743,11 @@ tco-python-api
 python-pygaze
 python-pushover-open-client
 llama-cpp-python-gradio
-python3-dtls
 python-sponsorblock
 tundra-xaxlib-python
 python-lora
 python-matrix
 viant-cloudutils-python3
-firstlanguage-python
 python-kv
 python-cliclient
 hypermodern-python-cli99
@@ -1807,14 +1764,12 @@ destination-python
 mailgun-python-sdk
 mumu-python-api
 nuaudit-python-autogen
-Resemblyzer-python3.9
 python-boatdclient
 python-docutils-graphviz
 python-rake
 python-sdformat
 leo-python
 surveymonkey-python
-molnet-python
 aliyun-python-sdk-vpc
 python-gifConverter
 python-notion-api
@@ -1835,7 +1790,6 @@ auth-python
 python-bunny-mq
 python_gyg
 chronopost-python
-python-compute-module
 python-metar
 plover-python-dictionary-cmd
 python-docx-oss
@@ -1889,7 +1843,6 @@ tag-mne
 python-forecastio
 resview-client-python
 Fourier-Series-Python
-python-ioc
 dive-jupyterlite-xeus-python
 spinnaker-python
 mffcc-extract-python
@@ -1953,7 +1906,6 @@ python-oxmsg
 orcatech-python-api-client
 python-jsonobject
 python-autojob
-volmex-python-sdk
 digitalhub-runtime-python
 qcs-sdk-python
 aioacm-sdk-python
@@ -1965,11 +1917,9 @@ python-docx-docm
 corva-worker-python
 python-heatclient
 python-garminconnect-enhanced
-arrayfire-binary-python-wrapper
 rle_python_interface
 python-dto
 cs46-python-trees-gloriachoi
-my-first-python-library
 scrapeops-python-logger
 pyprep
 mdr-python-api
@@ -2054,7 +2004,6 @@ cardpointe-api-python-client
 aliyun-python-sdk-vpcpeer
 python-composite
 dingo-python
-acutils-python
 factordb-python
 python-clementine-remote
 python-keystoneclient-kerberos
@@ -2113,7 +2062,6 @@ sdc-rabbit-python
 python-chi
 amari-python
 rvvup_python
-Python-EasyGraph
 foy-python
 MetaTrader5-python-connector
 python-moloni
@@ -2170,7 +2118,6 @@ python-killbill-client
 python-sendmail
 python3-eventbus
 python-webpack-boilerplate
-roboclaw-python
 iam-sdk-python
 python-libmilter
 hkube-python-wrapper
@@ -2251,7 +2198,6 @@ rda-python-common
 sqlite-blaster-python
 herocare-api-python-sdk
 try_python
-python-crfsuite-openmp
 python-tripleoclient
 bird-python
 raven-python-lambda
@@ -2261,7 +2207,6 @@ python-spy
 rstar-python
 stockly-python
 luisa-python
-python-switchbot-ble
 python-module
 rokuality-python
 python-obfuscator
@@ -2329,7 +2274,6 @@ EyeSim-Python
 pushbullet-python
 jpostcode-python
 python-appstream
-labml-python-autocomplete
 python-actransit
 btchip-python-syscoin
 serf-python
@@ -2340,7 +2284,6 @@ python3-cyberfusion-wordpress-support
 python-password-security
 python-tabular
 python-inflector
-open3d-python
 python-rhnapi
 python-arango
 CSV-to-JSON-Python
@@ -2351,13 +2294,11 @@ testcontainer-python-keycloak
 my_best_python_project
 python-weewar
 python-alea
-python-marketman
 python-biosystfiles
 neosensory-python
 decision-python
 aliyun-python-sdk-emap
 python-fb
-antropy
 Python-CANoe
 binarylane-python-client
 python3-ghostscript
@@ -2388,7 +2329,6 @@ python-gyazo
 python-moztelemetry
 ojai-python-api
 python-pppd
-python101
 python-sourcery
 libfwsi-python
 python-pptx-duplication-slide
@@ -2433,9 +2373,7 @@ Python-Mango-Office-API
 python-fspacker
 python-pipes
 aliyun-python-sdk-ubsms
-python-rust-torch-playground
 python-boardgamegeek
-badgerdb-python
 cookiecutter-python-package-demo
 cap-python
 barte-python-sdk
@@ -2459,7 +2397,6 @@ python-cpp-example
 python-ecb-daily
 aliyun-python-sdk-cloudgame
 mls-python
-python-tfvars
 python-ibmcclient
 python-libbitcoinclient
 rp_python_sdk
@@ -2506,7 +2443,6 @@ beaquery
 gcp-python-client-functions
 haas-python-spl06
 dagger-python3
-python-can-remote
 whatsapp-python-sdk
 soroush-python-sdk
 groupdocs-python3
@@ -2529,7 +2465,6 @@ vismit-python
 python-paseto
 python-electron
 SeasObjects_for_Python
-mm-proxy-python-client
 python-cpl
 harvest-python
 gwdc-python
@@ -2566,7 +2501,6 @@ chuck-norris-python
 python-meijer
 python-damas
 python-sample-03-08-2023
-note-python
 python-dashtx
 firefly-python
 aliyun-python-sdk-webplus
@@ -2574,7 +2508,6 @@ supertype-python
 aliyun-python-sdk-csb
 python-cbr
 python-pydown
-demo-python-package-ahren
 reorder-python-imports-black
 python-selve-new
 identity-python
@@ -2698,7 +2631,6 @@ sharepoint-online-python
 qset-python-client
 aliyun-python-sdk-codeup
 compas-python-utils
-ti-sdk-python
 python-buycoins
 python-blebox
 rctiplus-rabbitmq-python-sdk
@@ -2814,7 +2746,6 @@ python-libldap
 aliyun-python-sdk-ddosbgp
 snap-python
 qcloudapi-sdk-python
-kvpio-python
 python-eeml
 metzoo-python-sdk
 supertokens-python
@@ -2846,7 +2777,6 @@ python-earthquake
 python_chatbot
 allure-python-commons-il
 python-lancelot
-opencovis-python
 jinja2-python-version
 cas-python-sdk
 python3-pip-autoremove
@@ -2882,7 +2812,6 @@ aliyun-python-sdk-status
 python-micrometa
 igo-python
 python-contdel-app
-python-riot
 thoth-python
 python-dicks
 unit-python-sdk
@@ -2896,7 +2825,6 @@ openslide-python
 python-gql
 python-udptrack
 jennifer-python
-python-edje
 glitch-python-hcl2
 DLite-Python
 python-bsc
@@ -2918,7 +2846,6 @@ viper-in-python
 python-binance-async-ha
 linode-python
 python-cicoclient
-adsb-exchange-python
 ppi-python
 tracer-spans-python
 python-gpapi2
@@ -2968,7 +2895,6 @@ python-easytrack
 opentsdb-python-metrics
 apigratis-sdk-python
 python-semantic-release-pypi
-cuquantum-python-cu11
 python-postgres
 modern-python-sample
 python-pysh
@@ -3001,7 +2927,6 @@ python-craigslist-meta
 python-driftconfig
 python-heritrix
 python-groupmeapi
-cowsay-python
 python-bitcoinaddress
 python-fhir-converter
 python-allib
@@ -3030,7 +2955,6 @@ python-snookerbot
 python-systemd
 mne-bids-pipeline
 python-pptx-templating
-instagram-python-lib
 tinybird-python-sdk
 python-fcl
 matrix-python-common
@@ -3058,15 +2982,12 @@ python-abuseipdb
 jdb-python
 python-rai
 python-ltaoist
-kafka-python-dataclasses
 python3-libnuma
-vertica-ml-python
 simple-robotics-python-utils
 tok2me-python
 vega-python-sdk
 python-markdown-slack
 python3-cisctl
-lazybids
 pacote-marco-python
 python-scripttease
 haas-python-uln2003
@@ -3102,11 +3023,9 @@ python-kanata-common
 aliyun-python-sdk-schedulerx3
 pluto-python
 python-newtype
-ratesb-python
 python-jira-analysis
 python-sofa
 rm-sdk-python
-vl-convert-python
 python-toolbox
 async-python-youtube
 testcontainer-python-rabbitmq
@@ -3152,7 +3071,6 @@ aliyun-python-sdk-multimediaai
 python-travelmanager
 python-can-candle
 python-docstring-markdown
-python-sand
 Create-Python-Project
 arvados-python-client
 datadome-fraud-sdk-python
@@ -3192,7 +3110,6 @@ python-via
 python-libtiepie
 python-redis-orm
 python-codeforces
-python-money
 aliyun-python-sdk-productcatalog
 myonset
 platform-client-python
@@ -3201,7 +3118,6 @@ python-gedcom-2
 python-nexus
 Appium-Python-Client
 python-derrick-springmvc-rigging
-blockchain-python
 sumo-wrapper-python
 python_cipres
 python-amazon-mws
@@ -3242,7 +3158,6 @@ mm_203_python_pro
 python-ndn
 ec3-python-wrapper
 python-edgar
-python-dlt645
 logzio-python-handler
 python-mumps
 python-iconv
@@ -3250,7 +3165,6 @@ hhu-python-tasks
 python-librtmp
 lib-python-pro-gs
 tql-Python
-python-criteria
 python-gh-template
 python-libevent
 python-memcached-stats
@@ -3335,7 +3249,6 @@ python-dxf
 python-plus
 OpenDIP-Python
 oculus-python
-python-darwin
 python-leanplum
 zhihu-python
 python-authorization
@@ -3419,7 +3332,6 @@ cat-python
 python-chikka
 sendgrid-python
 Appium-Python-Client-Monkey
-python-yate
 aliyun-python-sdk-eci
 aliyun-python-sdk-idsp
 python-caspass
@@ -3444,7 +3356,6 @@ xapi-python
 python-xena
 organizer-python
 python-mail-sender
-python-xrd
 python-step-series
 python-gnip
 python-pae
@@ -3463,15 +3374,12 @@ langtrace-python-sdk
 expressvpn-python
 python-pip-2
 kicad-python
-python-glmnet
 python-yelp-v2
-opencovis-contrib-python
 my_first_python_app
 python-polymorphism
 python-wordchain
 neatek-python-chat-client
 fb-python-sdk
-selfeeg
 python-teamwork
 python-liv
 python-projet
@@ -3495,7 +3403,6 @@ python-openzwave-mqtt
 bitcoin-python
 pipedrive-python-lib
 python-streak
-coverage-python-version
 nebula3-python
 stratus-sdk-python
 check-python-versions
@@ -3558,7 +3465,6 @@ k9-python-logger
 sock-python
 fortnet-python
 aliyun-python-sdk-hiknoengine
-python-requests-bitcoinrpc
 python-fortune-cookie
 python-123-client
 aiproxy-python
@@ -3573,7 +3479,6 @@ api-python-solar-forecast
 timer-for-python
 diff_match_patch_python_python2_fork
 SESSION-1-PYTHON-PACKAGE
-python-packaging-distribution
 python3-capsolver
 scrapew-python-sdk
 python-cg
@@ -3671,7 +3576,6 @@ payfort-python
 ns-kafka-python
 satyrn-python
 python-textmate
-python-ips
 awslambda-python-common
 sdk-seshat-python
 bark-cpp-python
@@ -3693,7 +3597,6 @@ discogs-wrapper-python
 aliyun-python-sdk-companyreg
 rtc-cafe-signaller-python
 python-bebop
-fsrs-rs-python
 python-alipay
 picqer-client-python
 boltml-python
@@ -3724,18 +3627,15 @@ python-brink
 python-hal
 youtube-python
 analytics-python
-Python-Wars-Solo
 rake-python
 fe-python-di
 python-rdio
-eegio
 libvsmbr-python
 datafushion-plugins-python
 revolut-python
 plume-python
 symphony_bdk_python
 python-kacl
-python-exact-online
 clagiordano.python3-logger
 pct-python-default-test
 python-githooks
@@ -3774,7 +3674,6 @@ python-moretools
 python-jibebuy
 python-zeep
 python-elasticsearch-logging
-python-config
 bitmart-python-sdk-api
 types-python-jenkins
 python-opencongress
@@ -3831,7 +3730,6 @@ datasette-python
 test-hello-python
 tasq-client-python
 python-simpledaemon
-python-mltk
 rpi-python-drv8825
 dnp3-python
 python-esiclient
@@ -3959,7 +3857,6 @@ aio-healthcheck-python
 python-simple-dto
 python-dtuf
 python-messenger
-python-console
 python-mediator
 metabase-api-python
 aliyun-python-sdk-ververica
@@ -4040,7 +3937,6 @@ acm-sdk-python
 types-oiio-python
 leap-workflows-python-sdk
 python-dag-runner
-pooch
 glove-python-binary
 python-tracking
 jaki-sdk-python
@@ -4077,7 +3973,6 @@ python_markdown-oembed_extension
 explicit-python-kafka
 guardian-python
 python-geoip-yplan
-python-xmatters
 nilgiri-python
 aliyun-python-sdk-documentautoml
 python-memcached-udp
@@ -4087,7 +3982,6 @@ python-izone
 hoopoe-python
 python-cloudwatchlogs-logging
 python-tracerex
-ml-python
 python-mvp
 liqpay-python3
 python-lic-sys
@@ -4096,7 +3990,6 @@ python-realesrgan-ncnn-vulkan
 python-brainfuck
 keystone-python
 haas-python-relay
-python-ldl
 python-pycg
 haesleinhuepf-pyqode.python
 eensdk-python
@@ -4152,7 +4045,6 @@ pace-python-logger
 alfredo-python
 python-office-mac
 python-keystone-voms
-rlutils-python
 python-blockchain-explorer
 python-esteid
 mallgroup-python-lib
@@ -4196,7 +4088,6 @@ idris-python
 python-varnishadm
 TruScanEEGpy
 aliyun-python-sdk-paielasticdatasetaccelerator
-encore-python
 python-logvista
 signnow-python-sdk
 mermaid-python
@@ -4210,7 +4101,6 @@ python-gist
 menousdb-python
 python-binance-am11yfork
 dolphin-python
-python-statespace
 metzoo-python-writer
 orq-poc-python-client
 python-rqueue
@@ -4324,7 +4214,6 @@ mysql-connector-python
 rsa-crypto-python
 python-ode
 bitcoin-python3
-python3-application
 upcloud-api-python
 x-python
 awdb-python
@@ -4381,7 +4270,6 @@ langchain-volcengine-python-sdk
 magiceden-python
 HarperDBCloud-Python-SDK
 python-blockchaintools
-esdap
 python-library-30153653
 haas-python-qmi8610
 schemon-python-client
@@ -4508,7 +4396,6 @@ python-dotenv-vault
 aliyun-python-sdk-snsuapi
 abg-python
 pushover-python
-Python-Print-Tools
 python-pqclient
 python-efl
 python-dumbpig
@@ -4521,7 +4408,6 @@ kwickmapi-python
 python-pdfextract
 python-aws-ssm
 python-json-logger
-python-crfsuite
 natural-python
 python3-lzo-indexer
 python-digital-certificate
@@ -4531,7 +4417,6 @@ python-prtg
 python-local-passwords
 vlmvqa-python
 aliyun-python-sdk-maxcompute
-python-bioformats
 python-argtools
 python-string-utils
 haas-python-sh1106
@@ -4667,9 +4552,7 @@ reba-sms-python-sdk
 dnsdb-python
 identity-trace-python-agent
 haas-python-sht3x
-python-queen
 python-polly
-refinery-python-sdk
 jdmn-python-runtime
 timespan-python
 amps-python-client
@@ -4694,7 +4577,6 @@ python-aoc-qq
 finance-quote-python
 MTA-SDK-Python
 haas-python-pca9685
-python-text-menu
 Fooocus-API-python-client
 python-dlt
 python-certsrv
@@ -4743,12 +4625,10 @@ camera-ui-python-types
 python-batian
 break-my-python
 uv-python-lambda
-autoreject
 catkin-tools-python
 101703383-python-package2
 reactsms-sdk-python
 python-git-wrapper
-casm-python
 rest-confidence-client-python
 mark-python-client
 python-crunchbase
@@ -4832,7 +4712,6 @@ nmk-python
 bss-python
 isl-python
 alibabacloud-dkms-transfer-python
-wherobots-python-dbapi
 ciscotropo-webapi-python
 aliyun-python-sdk-alimt
 python-roblox-api-wrapper
@@ -4849,7 +4728,6 @@ python-eyelinkparser
 python-serpente
 python-template-zuppif
 python-common
-python-blocks
 xarg-python
 cli-pride-flags-python
 python-bitvavo-api
@@ -4875,7 +4753,6 @@ pade-python-dependencies
 python-libguess
 python-chuck-norris
 python-pptx-valutico
-python-upsource-api
 robot-testrail-python2
 vprikol-api-python
 graphql-python
@@ -4941,7 +4818,6 @@ aeroapi-python
 python-digitalocean-ssh
 python-openevse
 pcp-serversdk-python
-scalekit-sdk-python
 new_python
 cmtt-python-wrapper
 python-hkp
@@ -5013,7 +4889,6 @@ python-PyFrame
 python-escpos
 python-tr
 aliyun-python-sdk-vs
-python-publish
 python-dice
 ssh2-python3
 python-gtkmvc3-dlr
@@ -5062,7 +4937,6 @@ d8s-python
 python-dbusx
 python-sumo
 tradex-common-python
-python-crfsuite-extension
 vapi-python
 python-sailsd
 imgtk-python
@@ -5094,7 +4968,6 @@ python-bale-bot
 BlitzOps-Python
 jderobot-interfaces-python
 package-python-hello-world
-gecrooks-python-template
 python-paycoinrpc
 python-coupang
 python-gtmetrix
@@ -5110,10 +4983,8 @@ exceptional-python
 django-cte-trees-python3
 python-monitors
 python-gitdb
-niprov
 python-karborclient
 bitget-python-connector
-python-DrowsyDetection
 sophosfirewall-python
 python-dirtt
 python-xray
@@ -5123,7 +4994,6 @@ mux-python
 option-python
 python-package-example
 nitropay-sponsor-python
-vishwa-data-python
 erfa_python
 python-scuttle
 python-nhi
@@ -5204,7 +5074,6 @@ zermelo-for-python
 gcp-python-logging
 python-fslogger
 mecab-python
-python3-brisa
 neural-python
 python-sdist-maemo
 python-savannaclient
@@ -5293,7 +5162,6 @@ python-quoine
 python-translator
 python3-mmhash
 dt-python-sdk
-create-python-package
 python-pbi
 marvin-python-toolbox
 python-pydantic-responses-python-sdk
@@ -5303,7 +5171,6 @@ python3email
 msgpackr-python
 neuronbridge-python
 authorizenet-python
-python-libthai
 python-schwab
 aliyun-python-sdk-linkvisual
 ontology-python-sdk
@@ -5322,12 +5189,10 @@ python-wordle-helper
 pongo-python
 python-music
 asm-python
-python-nagios-helpers3
 smsc-python
 open-korean-text-python
 python-join-api
 aliyun-python-sdk-viapi
-opencortex
 python-orbeon-budget
 roiextract
 python-geofs
@@ -5377,7 +5242,6 @@ messente-python
 gnutools-python
 happy-python
 maitai-sdk-python
-tnia-python
 aliyun-python-sdk-saf
 python-buildkite-api
 python-onix
@@ -5456,7 +5320,6 @@ scribes.python.rope
 python3-libdrizzle
 marquez-python
 nimbus-python
-mneprep
 dataart-python
 replit-python-lsp-server
 caic-python
@@ -5487,8 +5350,6 @@ python-gdsii
 godot-python
 python-conflux-sdk
 lc-sdk-python
-rvc3python
-easyrec-python
 python-gitfix
 python-resumable
 python-clickhouse-api
@@ -5500,7 +5361,6 @@ apps-infrastructure-python
 python-can-slcan-disco
 python-jumbo-api
 python-emarsys
-python-ds-utils
 ib-python
 callfire-api-client-python
 python-hackrf
@@ -5517,13 +5377,11 @@ python-csvloader-dpp-example
 loggly-python-handler
 x448-python
 umls-python-client
-python-libratone-zipp
 ts2python
 aliyun-python-sdk-domain
 BL-Python.identity
 qingxun-openapi-python-sdk
 trex-python
-python-seispy
 hodlon-python-project-manager
 mollie-api-python
 all-python
@@ -5537,7 +5395,6 @@ atlassian-marketplace-python-client
 silk-python
 vba2python
 skyagent-python
-esinet
 realit-singer-python
 cleantalk-python-antispam
 python-bitcoin-tools
@@ -5601,7 +5458,6 @@ python-geoio
 googletrans-python
 nylas-production-python
 python-bcp47
-gossip-python
 python-catcher
 python-aspects
 Python-Black-Seminar-6-task-5
@@ -5632,7 +5488,6 @@ mapr-streams-python-slayv
 autopack-python
 python-for-pytest
 glovo-api-python
-sphinx-gallery
 autobahn-python-runners
 python-network
 insight-gateway-python-v4.0.5
@@ -5654,7 +5509,6 @@ bearing-python
 constant-contact-python
 nz-ua.python
 python-zaqarclient
-python-exsim
 python-discord-client
 python-dockercloud
 airavata-python-sdk
@@ -5669,7 +5523,6 @@ odigos-opentelemetry-python
 python-demeter
 capmonster-python
 python-mbedtls
-python-HackMD
 si-api-python-client
 python-print-extended
 kulya-python
@@ -5677,13 +5530,11 @@ aliyun-python-sdk-dts
 python-masakariclient
 difio-cloudcontrol-python
 replapiit-python-parser
-opencv-contrib-python
 python-contracts
 aliyun-python-sdk-afs
 python-rabbitair
 tesseract-python
 Python-Quelert
-python-todotxt
 nsx-policy-python-sdk
 forex-python
 python-apmecclient
@@ -5691,14 +5542,12 @@ python-lavviebot
 roboticstoolbox-python
 aap-client-python
 python-data-access
-opencv-python
 ai21-python-client
 lmax-python-sdk
 gep-python-coding-challenge
 python-pype
 manychat-api-python
 ada-python
-python-maven
 anycodes-python-ui
 iris-pex-embedded-python
 python-hipchat
@@ -5709,10 +5558,8 @@ haas-python-mq3
 libwrc-python
 pyqode.python
 python-serverless-registry
-lldb-python
 ctp-python
 python-adt
-Reckitt-Python-Package
 dawn-python
 python-facebook-lite
 qpid-python
@@ -5724,7 +5571,6 @@ python-poetry-template
 motorcortex-robot-control-python
 mailinator-python-client-2
 tox-core-python
-python-hcalendar
 python-benforder
 python-pragmatic
 python-injection-framework
@@ -5749,12 +5595,10 @@ Aries-Python
 python-ftx
 python-daraja
 memvectordb-python
-bagpipe-python
 dydx-v3-python-pundix
 python-docx-ml
 python-control4-lite
 python-usda
-open-nn-python
 neolib-python
 vaas-sdk-python
 podio-python
@@ -5804,7 +5648,6 @@ gadget-python
 instagram-python-scraper
 python-sfor
 aliyun-python-sdk-risk
-redis-enterprise-python
 ctodd-python-lib-location
 epy-python-kit
 python-epson-printer
@@ -5856,7 +5699,6 @@ python-snovio
 dopt-blocks-python-client
 openobserve-python-handler
 nakama-python
-python-build
 python-115
 library-python-utilities
 Cryptostats-Python
@@ -5881,7 +5723,6 @@ python-inotify
 python-redis-logger
 gaia-python-sdk-atlas
 python-onedrive
-spark-basic-python
 apoli-python-extension
 python-code-parse
 robinhood-kafka-python
@@ -5917,7 +5758,6 @@ python-datamatrix
 tezos-python
 haas-python-ws2812
 python-switchbot
-python-rs
 python-pique
 python-postnl-checkout
 hedera-sdk-python
@@ -5940,7 +5780,6 @@ helloworks-python-sdk
 skwiz-logger-python
 python-mis
 aliyun-python-sdk-acm
-envrun-python
 python-adjutantclient
 satori-sdk-python
 python-cuisineaz
@@ -5963,7 +5802,6 @@ python-ocm
 python-iridium-modem
 nlpir-python
 python-leetcode-runner
-bitrix24-python3-client
 alibabacloud-nls-python-sdk
 libevtx-python
 python-mdc-utils
@@ -6009,7 +5847,6 @@ bt-python-sdk
 rule-engine-client-python
 tuze-python-sdk
 python-pubsub
-basic-python-package-fb
 python-ipc-cfx
 python_lconf_lexer
 python-editor-hotoffthehamster
@@ -6050,7 +5887,6 @@ golos-lib-python
 facturapi-python
 python-saml
 python-delay
-Python-Package-tutorial
 python-plausible
 aliyun-python-sdk-democenter
 griddb-python
@@ -6059,7 +5895,6 @@ python-500px
 python-netflix
 python-elinks
 python_persistent_queue
-cuquantum-python-cu12
 python-amplitude-export
 erddap-python
 python-odt-template
@@ -6100,7 +5935,6 @@ hermes-python
 python-teaching-tools
 pacote-python-test
 python-whatsapp-bot
-python-apiy
 python-graphblas
 clearbit-slack-python
 python-redilock
@@ -6118,7 +5952,6 @@ python-bootstrap
 blobfish-ejbca-client-python
 auger-python
 python-vipaccess
-python-broadcaster
 python-pcre
 python-workflow
 python-pkg
@@ -6180,7 +6013,6 @@ gp-python-client-sid
 python-kyototycoon
 python-swiftclient
 Othello-Python
-flashinfer-python
 python-addresslib
 python-canvas
 microdf-python
@@ -6249,7 +6081,6 @@ python-paginator
 python-pallycon
 python-tpln
 python-powerhouse-helper-pretest-2
-scot
 python-parsnip
 imgproxy-python
 python-message
@@ -6269,7 +6100,6 @@ python-google-nest
 sandi-python-toolbox
 python-mollusc
 python-juicenet
-frites
 python-git-secrets
 vule-magics-python2
 python-pySearch
@@ -6284,10 +6114,8 @@ python-simple-shell
 python-alis
 aliyun-python-sdk-wfts
 python-dbusmock
-mne-vision
 bdating-python-common
 img2pdf-legacy-python
-python-iglobal
 psruq-python
 advent-of-python
 mysql-connector-python-rf
@@ -6321,7 +6149,6 @@ json-to-python
 python-monascaclient
 eapy-python-sdk
 amberflo-metering-python
-python_wpapi
 gp-discord-python
 realsr-ncnn-vulkan-python
 bring-python-api
@@ -6409,7 +6236,6 @@ qqmusic-api-python
 finazon-grpc-python
 python_version
 python-pancakeswap
-python-zaleycash
 python-file-storage
 python-sdcclient
 motorcortex-python
@@ -6435,7 +6261,6 @@ python-only
 chess-python-pip
 python-espeak
 aliyun-python-sdk-imm
-immutable-Python-Type
 python_grpc_tracing
 telegram-python
 bnmapi-python
@@ -6480,7 +6305,6 @@ python-rocksdb-iota
 luno-python
 chargily-epay-python
 python-creole
-python-audio-autotest-3.10
 haas-python-haaseduk1
 apriori-python
 python-AGS4
@@ -6514,19 +6338,16 @@ python-negar
 universal-analytics-python3
 python3-sitemap-generator
 Python-NBS
-opencv-python-headless
 python-lsp-black
 python-test-setup
 geli-python-common
 metrc-client-python
 apngasm-python
-bci4als
 aliyun-python-sdk-ecs
 intento-python-common
 python3-aigc2md
 ssp-sdk-python
 peace-performance-python
-flask-project-builder-python
 python-teacher
 Oublie-Python
 aliyun-python-sdk-facebody
@@ -6540,7 +6361,6 @@ python-masscan-nolog
 python-times
 microchain-python
 sbom4python
-python-sentiment
 python-filehelpers
 python-ambient
 python-numa
@@ -6563,7 +6383,6 @@ python-step-client
 topicgpt-python
 couragesteak-python-sdk-demo
 queryparser-python2
-basic-api-client-python
 dueros-bot-python_cfc
 easydata-python
 python-cdb
@@ -6579,14 +6398,11 @@ python-pack-for-ci
 python-firebase-gae
 python-syringe-pump
 gabia-sms-python
-python-aeroshield
 python-espeak-ng
 python-gemini-api
 aliyun-python-sdk-ocs
 python-ext4fs
 python-artmap
-opencv-python-asen
-python-practice-algorithm-pack
 python-synthetica
 braininvaders2012
 field-manager-python-client
@@ -6611,7 +6427,6 @@ python-rapidjson
 raspi-python-st7735
 python-cinderclient
 python-emites
-awmt-basic-python-packge
 python-pytm
 python-presence
 python3-alias
@@ -6656,12 +6471,10 @@ python-pydit
 ibotcloud-python
 openprotein_python
 python_wrap_cases
-opencv-contrib-python-rolling
 gosnmp-traps-python
 k3ng-rotator-python
 python_spin
 python-outlier
-python-pong
 messenger-api-python
 python3-xid
 python-cfonb
@@ -6698,15 +6511,12 @@ tipsa-api-python
 zunda-python
 antiprism-python
 Python-Spoke
-Python-Xen
 libgzipf-python
 Python-Ollama
 python-geoip-geolite2-coex
 python-taskpaper
 python-multitasking
 python-errorhandler
-neurodecode
-ExBrainable
 rvtools-python
 qase-python-commons
 python-payfast
@@ -6805,7 +6615,6 @@ method-python
 python2-mcrypt
 python-chrisclient
 python-kanban
-Anshu-Python-Calculator
 culqi-api-python
 python-unmotparjour
 python-httpfile
@@ -6819,7 +6628,6 @@ IRhash-python
 python-bit24
 python-pmpm
 python-stripe
-python-kdeploy
 python-overload
 python-package-table
 sesameeg
@@ -6839,7 +6647,6 @@ pulp-python
 python-axolotl-curve25519
 python-cdp
 memorycoin-python
-rust-sasa-python
 kelvin-python-api-client
 shimoku-api-python
 python-symphony
@@ -6863,7 +6670,6 @@ pydantic-python-regex-validator
 dep-python
 dmn_python
 cryo-python
-openocr-python
 python-okreport
 python-result
 rclone-python-lp-asset
@@ -6995,7 +6801,6 @@ karthick-python
 nxt-python-tools
 gptme-python
 python-config-parser
-python-contest-template
 shade-python-sdk
 aliyun-python-sdk-cloudphoto
 python-fattureincloud
@@ -7007,10 +6812,8 @@ python4poets
 python-spf
 galaxy-fds-sdk-python3
 ancer-python
-ruth-python
 ripple-python
 python-cli-ui
-neurora
 avro-to-python-etp
 haas-python-rockerkey
 python-magic-pure
@@ -7043,7 +6846,6 @@ python-version-manager
 seeed-python-reterminal
 airflow-python-sdk
 jb-python-etcd
-ADC-Python-Library
 aml_python
 merlin-python-utils
 callisto-python
@@ -7056,7 +6858,6 @@ python-wdotool
 python-csv
 python-gratisdns
 agentx-python
-python-jdb
 infila-python
 tempmail-python
 eden-python
@@ -7103,7 +6904,6 @@ confidentify-client-python
 python-spectrometer
 aliyun-python-sdk-ens
 python-coingecko
-mne-hfo
 python-telegram-bot
 Jasypt2Python
 HowLongToBeat-Python-API
@@ -7124,7 +6924,6 @@ aliyun-python-sdk-rtc
 python-admob
 hypernode-api-python
 jx-python
-mne-hcp
 polar-python
 wemake-python-styleguide
 python-mealie-api
@@ -7165,13 +6964,11 @@ datavita-open-python-sdk
 aliyun-python-sdk-cloudapi
 vegafusion-python
 fitter-python
-python-google-shopping
 python-payflowpro
 python-deploy
 libesedb-python
 python-liquid-api-tths
 python-liblockfile
-pyriemann
 python3-uwsgicachetop
 python_vdx
 ImgTextClipboard-python
@@ -7184,23 +6981,19 @@ python-reddcoinrpc
 pip-facades-sample-python
 python-hpilo
 leximpact-common-python-libraries
-python-netlink
 askdata-api-python-client
 ucloud-sdk-python2
 python-boleto-cloud
 python-aiot-sdk
 transit-python
-python-application
 python-correios
 is3-python-sdk
 miqa-python-client
 embasp-python
-gtt-python-client
 aliyun-python-sdk-outboundbot
 python3-libraccoon
 rottentomatoes-python
 mesh-python
-opencv-contrib-python-headless
 wexample-filestate-python
 omegi-instrumentation-python
 python-dnslb
@@ -7320,10 +7113,8 @@ python-observer
 my-python-serializer-release
 aliyun-python-sdk-airticketopen
 tracers-spans-python
-opencv-python-headless-rolling
 bitget-python
 paimon-python-ali
-gang-python-calculator
 dingtalk-python-sdk
 python-doc-inherit
 Python-FOSS-HRTest
@@ -7336,7 +7127,6 @@ edapp-python-sdk
 lob-python
 TIME-python
 python-jptk
-python-votesmart
 python-lightblue
 python-gpt-image
 auto-ria-python
@@ -7408,7 +7198,6 @@ python-steer
 federal-reserve-python-api
 agora-python-sdk
 pma-python
-python-sensors
 python-opengraph-jaywink
 rsi-python-lib
 python-google-calendar-api
@@ -7451,7 +7240,6 @@ python-freeDictionaryAPI
 libolecf-python
 qcog-python-client
 spei-python
-python3HTTPSAuthServer
 dbus-python-client-gen
 akara-python
 python_opensky
@@ -7460,7 +7248,6 @@ python-rt-currency-converter
 python-import-policies
 swing-python-handler
 python-dialpad-httpx
-rgf-python
 aliyun-python-sdk-ivpd
 spyse-python
 python-chess
@@ -7515,8 +7302,6 @@ python-trovo
 aio-alipay-sdk-python
 lib-python-pro-gs-2
 python-telegram-broadcast
-braindecode
-pipelime-python
 python-audiodb
 PLANit-Python
 lago-python-client
@@ -7582,7 +7367,6 @@ ns1-python
 python-graph-dot
 imagify-python
 python-googlesearch
-daily-python
 python-commentator
 Python-Alexandria
 gmx-python-sdk
@@ -7594,7 +7378,6 @@ kucoin-python
 python-withings
 python-tradingbot
 polodb-python
-python-tide
 python-weave
 functional-python
 python-lunrclient
@@ -7613,7 +7396,6 @@ python-spell-checker
 python-ccp
 safaricom-mxl-python
 python3-sendtelesend
-python-oeis
 empty-python-repository
 haas-python-fire
 deezer-python-async
@@ -7663,9 +7445,7 @@ python-ddp
 python-cache-manager
 python-cartesi
 python-topsis
-python-pypeline
 my-python-package-template
-python-easy-math
 signhost-api-python-client
 midtrans-python-rest-sdk
 python-developer-tools
@@ -7696,7 +7476,6 @@ quantile-python
 eem-python
 toggl_python
 python-can-cando
-python-binexport
 python-briefdruckzentrum
 Qualisys-Python-IO
 octomap-python
@@ -7715,7 +7494,6 @@ python_log_indenter
 python-apm
 libvirt-python
 psshiva-python-functions
-python_sftp_client
 kelvin-python-sdk
 Python-Extension
 python-charts
@@ -7924,7 +7702,6 @@ python-pdf
 wealthsimple-trade-python
 TreeExplorer-Python
 dynamodb-python-lib
-python-fib
 monty-python
 concord-python-dsl
 datadog-api-client-python
@@ -7943,7 +7720,6 @@ alfred-python
 cyberrangecz-python-commons
 python-time
 bser-python-client
-python-da-final-vkaul
 cashfree-pg-sdk-python
 python-limelight
 python-digifinex
@@ -8014,7 +7790,6 @@ python-mibody
 python-bikewise
 pylossless
 python-bunnycdn-storage
-hotmart-python
 ae-python
 python-surveilclient
 python-config-service
@@ -8072,7 +7847,6 @@ python-amazon-advertising-api
 sice-python
 python-test-wh
 aliyun-python-sdk-push
-biot-python-sdk
 breadboard-python
 python-novaclient
 PubSub-Python
@@ -8096,7 +7870,6 @@ codenode-python
 python-simple-log
 python-cards
 Hanalytics-python-package
-template-python-library
 python-can-gc
 python-neuron
 griddb-python-client
@@ -8119,7 +7892,6 @@ async-tasks-python
 drivefx-python-sdk
 bronto-python
 spidex-python-sdk2
-opencv-python-rolling
 st-schema-python
 satstream-python-sdk
 opbeat_python_urllib3
@@ -8239,9 +8011,7 @@ python-ethermine
 relayer-python-sdk
 python-eigen-ingenuity-nocli
 python-logging-loki-v2
-rsconnect-python
 python-gsmmodem-new
-rytrme-api-python
 python-nebri
 python-technove
 python-msspeak
@@ -8279,7 +8049,6 @@ santander-python-sdk
 ablt-python-api
 python-gsmmodem-new-m3
 python4excel
-python-project-creator
 juji-python-sdk
 Chips-python
 python-abc
@@ -8321,7 +8090,6 @@ python-import-guardian
 python-download
 pan-sdk-python
 python-firebase
-cvu-python
 python-trader
 python-table-print
 python-datatable
@@ -8430,10 +8198,8 @@ topsis-csv-python3
 ddr-python
 python-converters
 python-gitmojis
-python-redis-cache
 python-jsonpath-object-transform
 fair-python-cookiecutter
-dataguzzler-python
 python-dycasbin
 Smelly-Python
 wurfl-python
@@ -8539,7 +8305,6 @@ Python-Logo-Widgets
 airtable-python-wrapper
 python-manilaclient
 psij-python
-clearcache-python
 jira-python-utils
 haas-python-adxl34x
 plover-python-dictionary-lib
@@ -8576,7 +8341,6 @@ new-python-github-project
 hdx-python-api
 chessai-python
 upstox-python-sdk
-ml-python-lib
 ctodd-python-lib-exceptions
 python-pushbullet
 ethercalc-python
@@ -8603,7 +8367,6 @@ python-yubikey
 python-serverless-runner
 python-udd
 python-speak
-python-gerritclient
 python-cayennelpp
 aliyun-python-sdk-sdk
 purl-python
@@ -8618,7 +8381,6 @@ python-textops3
 python-ppnetwork
 mailinator-python-client
 python-weka-wrapper3
-python-sureshmnv
 osvc-python
 exasol-udf-mock-python
 blockscan-python

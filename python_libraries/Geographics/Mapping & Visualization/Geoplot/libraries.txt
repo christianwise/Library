@@ -1,11 +1,5 @@
-act-atmos
-bas-geoplot
 geoplot
-mapclassify
 geoplots
 pyobis
 datapreprep
 cpc.geoplot
-hmi
-mapclassif-Iron
-pandas-bokeh

@@ -1,6 +1,0 @@
-pce
-chaospy
-sparseSpACE
-profit
-bayesvalidrox
-nvidia-modulus.sym

@@ -1,11 +1,8 @@
 pyramid-georest
 eflips-model
 dbxs
-simpletasks-data
-pyopencdms
 twitterhistory
 c2cgeoform
-criticalmaas.ta1-geopackage
 oy-libs-Flask-Admin
 fab-addon-geoalchemy
 oogeo
@@ -16,5 +13,4 @@ flickrhistory
 GeoFormAlchemy2
 GeoAlchemy
 Flask-Admin-reboot
-GeoAlchemy2
 GeoFormAlchemy

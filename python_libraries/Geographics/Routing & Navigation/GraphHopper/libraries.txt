@@ -1,7 +1,3 @@
 graphh
-up-jsprit
 wayfarer
-GraKeL
-routingpy
 amarillo-enhancer
-pymove

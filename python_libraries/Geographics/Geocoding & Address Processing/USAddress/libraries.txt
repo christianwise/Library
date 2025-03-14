@@ -8,11 +8,7 @@ usaddress-scourgify
 address_extractor
 pandas-usaddress
 agrc-usaddress
-ctodd-python-lib-location
 probablepeople
 py-address-parser
 xsdata
-parserator
-send-the-raven
 guts
-django-autoparsed-address-field

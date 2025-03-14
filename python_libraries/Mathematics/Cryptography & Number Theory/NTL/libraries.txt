@@ -1,17 +1,10 @@
 giacpy
 gridfinder
 neuralseek
-passagemath-ntl
 jsntlib
-graphtheory
 ntl
-holiday-oracle
 Pyfhel-CKKS
-vida-gridlight
-passagemath-schemes
 utterson
 facile-gitlab-trigger
 pyntlib
-holidays
 bluegalaxyenergy
-shell-history-analysis
